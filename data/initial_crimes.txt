@@ -1,0 +1,899 @@
+ADD|CR0001|Theft|Karachi Saddar|15/01/2024|5|Ahmed Khan|Mobile phone stolen from market
+ADD|CR0002|Robbery|Lahore Gulberg|14/01/2024|8|Ali Shah, Hassan Malik|Armed robbery at jewelry shop
+ADD|CR0003|Murder|Islamabad F-6|13/01/2024|10|Unknown|Investigation ongoing
+ADD|CR0004|Assault|Rawalpindi Saddar|12/01/2024|6|Bilal Ahmed|Physical assault after dispute
+ADD|CR0005|Burglary|Multan Cantt|11/01/2024|7|Usman Butt|House burglary at night
+ADD|CR0006|Fraud|Faisalabad Clock Tower|10/01/2024|6|Hamza Sheikh|Online fraud case
+ADD|CR0007|Theft|Peshawar Saddar|09/01/2024|5|Zain Hassan|Car parts stolen
+ADD|CR0008|Drug Trafficking|Quetta Cantonment|08/01/2024|9|Kamran Hussain|Major drug bust
+ADD|CR0009|Cybercrime|Karachi Defence|07/01/2024|7|Unknown|Social media hacking
+ADD|CR0010|Vandalism|Lahore Model Town|06/01/2024|4|Junaid Ali|Public property damage
+ADD|CR0011|Kidnapping|Islamabad I-8|05/01/2024|9|Shahid Mahmood|Child kidnapping case
+ADD|CR0012|Theft|Rawalpindi Westridge|04/01/2024|7|Unknown|Honda Civic stolen
+ADD|CR0013|Robbery|Karachi Clifton|03/01/2024|8|Tariq Saeed|Bank robbery attempt
+ADD|CR0014|Assault|Multan Cantt|02/01/2024|6|Wasim Khan|Domestic violence
+ADD|CR0015|Burglary|Faisalabad Samanabad|01/01/2024|7|Hassan Ali|Shop burglary
+ADD|CR0016|Fraud|Peshawar University Road|31/12/2023|6|Bilal Shah|Property fraud
+ADD|CR0017|Theft|Quetta Jinnah Road|30/12/2023|5|Ahmed Aslam|Bike stolen
+ADD|CR0018|Murder|Karachi Lyari|29/12/2023|10|Salman Butt|Gang-related murder
+ADD|CR0019|Drug Trafficking|Lahore Badami Bagh|28/12/2023|8|Mustafa Khan|Drug network busted
+ADD|CR0020|Cybercrime|Islamabad Blue Area|27/12/2023|7|Unknown|Banking fraud
+ADD|CR0021|Theft|Karachi North|26/12/2023|5|Rizwan Ali|Laptop stolen from office
+ADD|CR0022|Robbery|Lahore Cantt|25/12/2023|8|Adnan Sheikh|Armed robbery
+ADD|CR0023|Assault|Islamabad G-9|24/12/2023|6|Fahad Khan|Street fight incident
+ADD|CR0024|Burglary|Rawalpindi Satellite Town|23/12/2023|7|Unknown|Multiple houses targeted
+ADD|CR0025|Fraud|Multan City|22/12/2023|6|Imran Malik|Credit card fraud
+ADD|CR0026|Theft|Faisalabad Downtown|21/12/2023|5|Talha Hassan|Shop theft
+ADD|CR0027|Drug Trafficking|Peshawar Ring Road|20/12/2023|9|Omar Butt|Drug smuggling
+ADD|CR0028|Cybercrime|Quetta City|19/12/2023|7|Unknown|Online scam reported
+ADD|CR0029|Vandalism|Karachi Nazimabad|18/12/2023|4|Junaid Shah|Vehicle vandalism
+ADD|CR0030|Kidnapping|Lahore Johar Town|17/12/2023|9|Unknown|Missing person case
+ADD|CR0031|Theft|Islamabad F-10|16/12/2023|5|Ahmed Hassan|Wallet pickpocketed
+ADD|CR0032|Robbery|Rawalpindi Committee Chowk|15/12/2023|8|Ali Raza|Gold shop robbery
+ADD|CR0033|Murder|Multan Gulgasht|14/12/2023|10|Hassan Shah|Honor killing case
+ADD|CR0034|Assault|Faisalabad Jhang Road|13/12/2023|6|Bilal Khan|Road rage incident
+ADD|CR0035|Burglary|Peshawar Hayatabad|12/12/2023|7|Usman Ali|Warehouse break-in
+ADD|CR0036|Fraud|Quetta Brewery Road|11/12/2023|6|Hamza Malik|Business fraud
+ADD|CR0037|Theft|Karachi Malir|10/12/2023|5|Zain Shah|Mobile snatching
+ADD|CR0038|Drug Trafficking|Lahore Shalimar|09/12/2023|9|Kamran Ali|Heroin seized
+ADD|CR0039|Cybercrime|Islamabad F-7|08/12/2023|7|Unknown|Identity theft
+ADD|CR0040|Vandalism|Rawalpindi Saddar|07/12/2023|4|Junaid Hassan|Graffiti vandalism
+ADD|CR0041|Kidnapping|Multan Shah Rukn-e-Alam|06/12/2023|9|Shahid Ali|Ransom case
+ADD|CR0042|Theft|Faisalabad Jinnah Colony|05/12/2023|5|Unknown|Motorcycle theft
+ADD|CR0043|Robbery|Peshawar Dalazak Road|04/12/2023|8|Tariq Hassan|House robbery
+ADD|CR0044|Assault|Quetta Sariab Road|03/12/2023|6|Wasim Shah|Workplace assault
+ADD|CR0045|Burglary|Karachi Gulshan|02/12/2023|7|Hassan Khan|Office burglary
+ADD|CR0046|Fraud|Lahore DHA|01/12/2023|6|Bilal Malik|Real estate fraud
+ADD|CR0047|Theft|Islamabad G-10|30/11/2023|5|Ahmed Shah|Car accessories stolen
+ADD|CR0048|Drug Trafficking|Rawalpindi Pirwadhai|29/11/2023|9|Salman Hassan|Drug dealer caught
+ADD|CR0049|Cybercrime|Multan Vehari Chowk|28/11/2023|7|Unknown|Phishing attack
+ADD|CR0050|Vandalism|Faisalabad Canal Road|27/11/2023|4|Junaid Butt|Billboard damage
+ADD|CR0051|Kidnapping|Peshawar GT Road|26/11/2023|9|Unknown|Child abduction
+ADD|CR0052|Theft|Quetta Airport Road|25/11/2023|5|Rizwan Khan|Bag snatching
+ADD|CR0053|Robbery|Karachi Korangi|24/11/2023|8|Adnan Ali|Factory robbery
+ADD|CR0054|Murder|Lahore Ichhra|23/11/2023|10|Fahad Shah|Murder over property
+ADD|CR0055|Assault|Islamabad I-10|22/11/2023|6|Imran Hassan|Domestic dispute
+ADD|CR0056|Burglary|Rawalpindi Chaklala|21/11/2023|7|Unknown|Shop break-in
+ADD|CR0057|Fraud|Multan Bosan Road|20/11/2023|6|Talha Khan|Check fraud
+ADD|CR0058|Theft|Faisalabad Allama Iqbal Colony|19/11/2023|5|Omar Hassan|Cash theft
+ADD|CR0059|Drug Trafficking|Peshawar Arbab Road|18/11/2023|9|Ahmed Ali|Drug trafficking ring
+ADD|CR0060|Cybercrime|Quetta Zarghoon Road|17/11/2023|7|Unknown|Cyberstalking case
+ADD|CR0061|Vandalism|Karachi Gulistan-e-Johar|16/11/2023|4|Junaid Khan|Park vandalism
+ADD|CR0062|Kidnapping|Lahore Thokar Niaz Baig|15/11/2023|9|Hassan Butt|Kidnapping for ransom
+ADD|CR0063|Theft|Islamabad F-11|14/11/2023|5|Ali Shah|Jewelry theft
+ADD|CR0064|Robbery|Rawalpindi Raja Bazaar|13/11/2023|8|Bilal Hassan|Market robbery
+ADD|CR0065|Murder|Multan Chungi|12/11/2023|10|Usman Khan|Gang warfare murder
+ADD|CR0066|Assault|Faisalabad Peoples Colony|11/11/2023|6|Hamza Hassan|Bar fight
+ADD|CR0067|Burglary|Peshawar Warsak Road|10/11/2023|7|Zain Ali|House burglary
+ADD|CR0068|Fraud|Quetta Jinnah Town|09/11/2023|6|Kamran Shah|Insurance fraud
+ADD|CR0069|Theft|Karachi Landhi|08/11/2023|5|Unknown|Auto parts theft
+ADD|CR0070|Drug Trafficking|Lahore Shahdara|07/11/2023|9|Junaid Malik|Cocaine seized
+ADD|CR0071|Cybercrime|Islamabad G-11|06/11/2023|7|Unknown|Credit card fraud online
+ADD|CR0072|Vandalism|Rawalpindi Morgah|05/11/2023|4|Shahid Khan|Monument defacement
+ADD|CR0073|Kidnapping|Multan Mattital|04/11/2023|9|Unknown|Woman kidnapping
+ADD|CR0074|Theft|Faisalabad Dijkot Road|03/11/2023|5|Tariq Ali|Farm equipment theft
+ADD|CR0075|Robbery|Peshawar Jamrud Road|02/11/2023|8|Wasim Hassan|Transport robbery
+ADD|CR0076|Murder|Quetta Satellite Town|01/11/2023|10|Hassan Shah|Contract killing
+ADD|CR0077|Assault|Karachi Saddar|31/10/2023|6|Bilal Ali|Mugging victim assault
+ADD|CR0078|Burglary|Lahore Garden Town|30/10/2023|7|Ahmed Khan|Bungalow burglary
+ADD|CR0079|Fraud|Islamabad F-8|29/10/2023|6|Salman Hassan|Ponzi scheme fraud
+ADD|CR0080|Theft|Rawalpindi Sadiqabad|28/10/2023|5|Unknown|Electricity meter theft
+ADD|CR0081|Drug Trafficking|Multan Old Shujabad Road|27/10/2023|9|Rizwan Shah|Methamphetamine seized
+ADD|CR0082|Cybercrime|Faisalabad Susan Road|26/10/2023|7|Unknown|Ransomware attack
+ADD|CR0083|Vandalism|Peshawar University Town|25/10/2023|4|Junaid Ali|University property damage
+ADD|CR0084|Kidnapping|Quetta Kasi Road|24/10/2023|9|Adnan Hassan|Businessman kidnapped
+ADD|CR0085|Theft|Karachi Shahrah-e-Faisal|23/10/2023|5|Fahad Khan|Showroom theft
+ADD|CR0086|Robbery|Lahore Main Boulevard|22/10/2023|8|Imran Ali|Exchange robbery
+ADD|CR0087|Murder|Islamabad G-7|21/10/2023|10|Unknown|Serial killer case
+ADD|CR0088|Assault|Rawalpindi Dhoke Syedan|20/10/2023|6|Talha Hassan|Neighborhood fight
+ADD|CR0089|Burglary|Multan Qasim Bela|19/10/2023|7|Omar Khan|Godown burglary
+ADD|CR0090|Fraud|Faisalabad Millat Town|18/10/2023|6|Ahmed Hassan|Land grabbing fraud
+ADD|CR0091|Theft|Peshawar Kohat Road|17/10/2023|5|Unknown|Truck hijacking
+ADD|CR0092|Drug Trafficking|Quetta Eastern Bypass|16/10/2023|9|Hassan Ali|Opium smuggling
+ADD|CR0093|Cybercrime|Karachi Clifton|15/10/2023|7|Unknown|Corporate data breach
+ADD|CR0094|Vandalism|Lahore Ferozepur Road|14/10/2023|4|Junaid Shah|Traffic light vandalism
+ADD|CR0095|Kidnapping|Islamabad H-9|13/10/2023|9|Ali Hassan|Child trafficking case
+ADD|CR0096|Theft|Rawalpindi Bahria Town|12/10/2023|5|Bilal Khan|Construction material thefat
+ADD|CR0097|Robbery|Multan Nawabpur|11/10/2023|8|Usman Hassan|Petrol pump robbery
+ADD|CR0098|Murder|Faisalabad Ghulam Muhammad Abad|10/10/2023|10|Hamza Ali|Sectarian killing
+ADD|CR0099|Assault|Peshawar Tehkal|09/10/2023|6|Zain Hassan|Police assault case
+ADD|CR0100|Burglary|Quetta Samungli Road|08/10/2023|7|Unknown|Military equipment theftADD|CR0101|theft|hyderabad|20/12/2025|7|Ali raza|mobile robbery at shop
+ADD|CR0102|fraud|kashmir|20/12/2025|3|ashfaq|company fraud
+ADD|CR0103|Theft|Karachi Gulshan|21/12/2025|6|Hassan Ahmed|Vehicle parts stolen
+ADD|CR0104|Robbery|Lahore Defence|21/12/2025|8|Unknown|Armed robbery at bank
+ADD|CR0105|Murder|Islamabad F-9|22/12/2025|10|Bilal Shah|Domestic murder case
+ADD|CR0106|Assault|Rawalpindi Saddar|22/12/2025|5|Ahmed Ali|Bar fight incident
+ADD|CR0107|Burglary|Multan Cantt|23/12/2025|7|Usman Khan|Jewelry shop burglary
+ADD|CR0108|Fraud|Faisalabad Samanabad|23/12/2025|6|Hamza Sheikh|Real estate scam
+ADD|CR0109|Drug Trafficking|Peshawar Ring Road|24/12/2025|9|Kamran Butt|Heroin seized
+ADD|CR0110|Cybercrime|Quetta Jinnah Road|24/12/2025|7|Unknown|Online banking fraud
+ADD|CR0111|Vandalism|Karachi Defence|25/12/2025|4|Junaid Hassan|Public property damage
+ADD|CR0112|Kidnapping|Lahore Model Town|25/12/2025|9|Shahid Malik|Child kidnapping
+ADD|CR0113|Theft|Islamabad Blue Area|26/12/2025|5|Unknown|Laptop stolen
+ADD|CR0114|Robbery|Rawalpindi Westridge|26/12/2025|8|Tariq Saeed|Gold shop robbery
+ADD|CR0115|Assault|Multan Gulgasht|27/12/2025|6|Wasim Ali|Street assault
+ADD|CR0116|Burglary|Faisalabad Clock Tower|27/12/2025|7|Hassan Khan|Office burglary
+ADD|CR0117|Fraud|Peshawar University Road|28/12/2025|6|Bilal Ahmed|Investment fraud
+ADD|CR0118|Theft|Quetta Airport Road|28/12/2025|5|Ahmed Hassan|Mobile snatching
+ADD|CR0119|Drug Trafficking|Karachi Clifton|29/12/2025|9|Salman Butt|Drug network busted
+ADD|CR0120|Cybercrime|Lahore Gulberg|29/12/2025|7|Unknown|Identity theft
+ADD|CR0121|Murder|Islamabad G-10|30/12/2025|10|Rizwan Shah|Honor killing
+ADD|CR0122|Vandalism|Rawalpindi Committee Chowk|30/12/2025|4|Junaid Ali|Vehicle vandalism
+ADD|CR0123|Kidnapping|Multan City|31/12/2025|9|Unknown|Ransom case
+ADD|CR0124|Theft|Faisalabad Jhang Road|31/12/2025|5|Adnan Khan|Bike stolen
+ADD|CR0125|Robbery|Peshawar Hayatabad|01/01/2024|8|Fahad Hassan|House robbery
+ADD|CR0126|Assault|Quetta Brewery Road|01/01/2024|6|Imran Shah|Workplace assault
+ADD|CR0127|Burglary|Karachi Malir|02/01/2024|7|Talha Ali|Warehouse break-in
+ADD|CR0128|Fraud|Lahore Cantt|02/01/2024|6|Omar Malik|Credit card fraud
+ADD|CR0129|Drug Trafficking|Islamabad F-11|03/01/2024|9|Ahmed Butt|Cocaine seized
+ADD|CR0130|Cybercrime|Rawalpindi Satellite Town|03/01/2024|7|Unknown|Phishing attack
+ADD|CR0131|Theft|Multan Vehari Chowk|04/01/2024|5|Zain Hassan|Cash theft
+ADD|CR0132|Murder|Faisalabad Canal Road|04/01/2024|10|Hassan Shah|Gang warfare
+ADD|CR0133|Assault|Peshawar GT Road|05/01/2024|6|Bilal Khan|Road rage
+ADD|CR0134|Robbery|Quetta Sariab Road|05/01/2024|8|Usman Ali|Factory robbery
+ADD|CR0135|Burglary|Karachi Nazimabad|06/01/2024|7|Hamza Ahmed|Shop burglary
+ADD|CR0136|Fraud|Lahore Johar Town|06/01/2024|6|Kamran Hassan|Insurance fraud
+ADD|CR0137|Kidnapping|Islamabad I-8|07/01/2024|9|Shahid Khan|Missing person
+ADD|CR0138|Theft|Rawalpindi Chaklala|07/01/2024|5|Unknown|Auto parts theft
+ADD|CR0139|Drug Trafficking|Multan Bosan Road|08/01/2024|9|Junaid Malik|Drug smuggling
+ADD|CR0140|Cybercrime|Faisalabad Peoples Colony|08/01/2024|7|Unknown|Ransomware attack
+ADD|CR0141|Assault|Peshawar Warsak Road|09/01/2024|6|Tariq Ali|Domestic violence
+ADD|CR0142|Murder|Quetta Jinnah Town|09/01/2024|10|Wasim Hassan|Contract killing
+ADD|CR0143|Robbery|Karachi Korangi|10/01/2024|8|Hassan Ali|Bank robbery
+ADD|CR0144|Burglary|Lahore Shalimar|10/01/2024|7|Bilal Shah|House burglary
+ADD|CR0145|Theft|Islamabad F-7|11/01/2024|5|Ahmed Khan|Wallet stolen
+ADD|CR0146|Fraud|Rawalpindi Raja Bazaar|11/01/2024|6|Salman Ahmed|Business fraud
+ADD|CR0147|Vandalism|Multan Shah Rukn-e-Alam|12/01/2024|4|Junaid Hassan|Monument damage
+ADD|CR0148|Kidnapping|Faisalabad Jinnah Colony|12/01/2024|9|Rizwan Ali|Child abduction
+ADD|CR0149|Drug Trafficking|Peshawar Arbab Road|13/01/2024|9|Adnan Butt|Heroin trafficking
+ADD|CR0150|Cybercrime|Quetta Zarghoon Road|13/01/2024|7|Unknown|Data breach
+ADD|CR0151|Theft|Karachi Gulshan|14/01/2024|5|Fahad Khan|Mobile phone stolen
+ADD|CR0152|Assault|Lahore DHA|14/01/2024|6|Imran Hassan|Bar fight
+ADD|CR0153|Robbery|Islamabad G-9|15/01/2024|8|Talha Shah|Armed robbery
+ADD|CR0154|Murder|Rawalpindi Pirwadhai|15/01/2024|10|Omar Ali|Murder case
+ADD|CR0155|Burglary|Multan Chungi|16/01/2024|7|Ahmed Malik|Office burglary
+ADD|CR0156|Fraud|Faisalabad Millat Town|16/01/2024|6|Zain Butt|Land fraud
+ADD|CR0157|Theft|Peshawar Kohat Road|17/01/2024|5|Unknown|Truck hijacking
+ADD|CR0158|Drug Trafficking|Quetta Eastern Bypass|17/01/2024|9|Hassan Ahmed|Opium smuggling
+ADD|CR0159|Cybercrime|Karachi Clifton|18/01/2024|7|Unknown|Corporate hacking
+ADD|CR0160|Assault|Lahore Ferozepur Road|18/01/2024|6|Bilal Hassan|Street fight
+ADD|CR0161|Kidnapping|Islamabad H-9|19/01/2024|9|Usman Khan|Businessman kidnapped
+ADD|CR0162|Robbery|Rawalpindi Bahria Town|19/01/2024|8|Hamza Shah|Exchange robbery
+ADD|CR0163|Theft|Multan Nawabpur|20/01/2024|5|Kamran Ali|Construction material theft
+ADD|CR0164|Murder|Faisalabad Ghulam Muhammad Abad|20/01/2024|10|Shahid Ahmed|Sectarian killing
+ADD|CR0165|Burglary|Peshawar Tehkal|21/01/2024|7|Junaid Khan|Warehouse burglary
+ADD|CR0166|Fraud|Quetta Samungli Road|21/01/2024|6|Tariq Hassan|Check fraud
+ADD|CR0167|Vandalism|Karachi Landhi|22/01/2024|4|Wasim Shah|Park vandalism
+ADD|CR0168|Drug Trafficking|Lahore Shahdara|22/01/2024|9|Hassan Malik|Cocaine seized
+ADD|CR0169|Theft|Islamabad G-11|23/01/2024|5|Unknown|Jewelry theft
+ADD|CR0170|Assault|Rawalpindi Morgah|23/01/2024|6|Ahmed Ali|Assault case
+ADD|CR0171|Robbery|Multan Mattital|24/01/2024|8|Bilal Khan|Market robbery
+ADD|CR0172|Cybercrime|Faisalabad Dijkot Road|24/01/2024|7|Unknown|Online scam
+ADD|CR0173|Kidnapping|Peshawar Jamrud Road|25/01/2024|9|Salman Hassan|Ransom demand
+ADD|CR0174|Theft|Quetta Satellite Town|25/01/2024|5|Rizwan Ahmed|Bag snatching
+ADD|CR0175|Murder|Karachi Saddar|26/01/2024|10|Adnan Shah|Gang murder
+ADD|CR0176|Burglary|Lahore Garden Town|26/01/2024|7|Fahad Ali|Bungalow burglary
+ADD|CR0177|Fraud|Islamabad F-8|27/01/2024|6|Imran Khan|Ponzi scheme
+ADD|CR0178|Assault|Rawalpindi Sadiqabad|27/01/2024|6|Talha Hassan|Neighborhood fight
+ADD|CR0179|Drug Trafficking|Multan Old Shujabad Road|28/01/2024|9|Omar Butt|Methamphetamine seized
+ADD|CR0180|Theft|Faisalabad Susan Road|28/01/2024|5|Unknown|Shop theft
+ADD|CR0181|Cybercrime|Peshawar University Town|29/01/2024|7|Unknown|Ransomware
+ADD|CR0182|Robbery|Quetta Kasi Road|29/01/2024|8|Ahmed Hassan|Transport robbery
+ADD|CR0183|Vandalism|Karachi Shahrah-e-Faisal|30/01/2024|4|Zain Ali|Billboard damage
+ADD|CR0184|Kidnapping|Lahore Main Boulevard|30/01/2024|9|Hassan Khan|Child trafficking
+ADD|CR0185|Theft|Islamabad G-7|31/01/2024|5|Bilal Ahmed|Car accessories stolen
+ADD|CR0186|Murder|Rawalpindi Dhoke Syedan|31/01/2024|10|Usman Hassan|Serial killer case
+ADD|CR0187|Assault|Multan Qasim Bela|01/02/2024|6|Hamza Ali|Bar fight
+ADD|CR0188|Burglary|Faisalabad Millat Town|01/02/2024|7|Kamran Shah|Godown burglary
+ADD|CR0189|Fraud|Peshawar Kohat Road|02/02/2024|6|Shahid Malik|Land grabbing
+ADD|CR0190|Drug Trafficking|Quetta Eastern Bypass|02/02/2024|9|Junaid Hassan|Drug trafficking ring
+ADD|CR0191|Theft|Karachi Clifton|03/02/2024|5|Unknown|Mobile snatching
+ADD|CR0192|Robbery|Lahore Ferozepur Road|03/02/2024|8|Tariq Khan|Petrol pump robbery
+ADD|CR0193|Cybercrime|Islamabad H-9|04/02/2024|7|Unknown|Corporate data breach
+ADD|CR0194|Assault|Rawalpindi Bahria Town|04/02/2024|6|Wasim Ali|Police assault
+ADD|CR0195|Kidnapping|Multan Nawabpur|05/02/2024|9|Hassan Ahmed|Woman kidnapping
+ADD|CR0196|Theft|Faisalabad Ghulam Muhammad Abad|05/02/2024|5|Ahmed Shah|Farm equipment theft
+ADD|CR0197|Burglary|Peshawar Tehkal|06/02/2024|7|Bilal Hassan|Military equipment theft
+ADD|CR0198|Murder|Quetta Samungli Road|06/02/2024|10|Salman Khan|Honor killing
+ADD|CR0199|Fraud|Karachi Landhi|07/02/2024|6|Rizwan Ali|Insurance scam
+ADD|CR0200|Vandalism|Lahore Shahdara|07/02/2024|4|Adnan Hassan|Traffic light vandalism
+ADD|CR0201|Theft|Islamabad G-11|08/02/2024|5|Fahad Khan|Laptop stolen
+ADD|CR0202|Drug Trafficking|Rawalpindi Morgah|08/02/2024|9|Imran Butt|Drug dealer caught
+ADD|CR0203|Robbery|Multan Mattital|09/02/2024|8|Talha Shah|Bank robbery
+ADD|CR0204|Assault|Faisalabad Dijkot Road|09/02/2024|6|Omar Ali|Domestic dispute
+ADD|CR0205|Cybercrime|Peshawar Jamrud Road|10/02/2024|7|Unknown|Phishing attack
+ADD|CR0206|Kidnapping|Quetta Satellite Town|10/02/2024|9|Ahmed Malik|Businessman kidnapped
+ADD|CR0207|Theft|Karachi Saddar|11/02/2024|5|Unknown|Vehicle stolen
+ADD|CR0208|Burglary|Lahore Garden Town|11/02/2024|7|Zain Hassan|House burglary
+ADD|CR0209|Murder|Islamabad F-8|12/02/2024|10|Hassan Ali|Murder over property
+ADD|CR0210|Fraud|Rawalpindi Sadiqabad|12/02/2024|6|Bilal Khan|Credit card fraud
+ADD|CR0211|Drug Trafficking|Multan Old Shujabad Road|13/02/2024|9|Usman Ahmed|Cocaine trafficking
+ADD|CR0212|Assault|Faisalabad Susan Road|13/02/2024|6|Hamza Hassan|Road rage
+ADD|CR0213|Theft|Peshawar University Town|14/02/2024|5|Unknown|Cash theft
+ADD|CR0214|Robbery|Quetta Kasi Road|14/02/2024|8|Kamran Shah|Armed robbery
+ADD|CR0215|Cybercrime|Karachi Shahrah-e-Faisal|15/02/2024|7|Unknown|Online fraud
+ADD|CR0216|Vandalism|Lahore Main Boulevard|15/02/2024|4|Shahid Ali|Monument defacement
+ADD|CR0217|Kidnapping|Islamabad G-7|16/02/2024|9|Junaid Khan|Child abduction
+ADD|CR0218|Theft|Rawalpindi Dhoke Syedan|16/02/2024|5|Tariq Hassan|Auto parts theft
+ADD|CR0219|Burglary|Multan Qasim Bela|17/02/2024|7|Wasim Malik|Shop burglary
+ADD|CR0220|Murder|Faisalabad Millat Town|17/02/2024|10|Hassan Shah|Gang warfare
+ADD|CR0221|Assault|Peshawar Kohat Road|18/02/2024|6|Ahmed Ali|Street fight
+ADD|CR0222|Fraud|Quetta Eastern Bypass|18/02/2024|6|Bilal Ahmed|Real estate fraud
+ADD|CR0223|Drug Trafficking|Karachi Clifton|19/02/2024|9|Salman Hassan|Heroin seized
+ADD|CR0224|Theft|Lahore Ferozepur Road|19/02/2024|5|Unknown|Bike stolen
+ADD|CR0225|Robbery|Islamabad H-9|20/02/2024|8|Rizwan Khan|Gold shop robbery
+ADD|CR0226|Cybercrime|Rawalpindi Bahria Town|20/02/2024|7|Unknown|Ransomware attack
+ADD|CR0227|Assault|Multan Nawabpur|21/02/2024|6|Adnan Shah|Workplace assault
+ADD|CR0228|Kidnapping|Faisalabad Ghulam Muhammad Abad|21/02/2024|9|Fahad Ali|Ransom case
+ADD|CR0229|Theft|Peshawar Tehkal|22/02/2024|5|Imran Hassan|Mobile snatching
+ADD|CR0230|Burglary|Quetta Samungli Road|22/02/2024|7|Talha Khan|Warehouse break-in
+ADD|CR0231|Murder|Karachi Landhi|23/02/2024|10|Omar Hassan|Contract killing
+ADD|CR0232|Vandalism|Lahore Shahdara|23/02/2024|4|Ahmed Butt|Park vandalism
+ADD|CR0233|Fraud|Islamabad G-11|24/02/2024|6|Zain Ali|Investment fraud
+ADD|CR0234|Drug Trafficking|Rawalpindi Morgah|24/02/2024|9|Hassan Khan|Drug network busted
+ADD|CR0235|Robbery|Multan Mattital|25/02/2024|8|Bilal Shah|Exchange robbery
+ADD|CR0236|Theft|Faisalabad Dijkot Road|25/02/2024|5|Unknown|Construction material theft
+ADD|CR0237|Assault|Peshawar Jamrud Road|26/02/2024|6|Usman Ali|Bar fight
+ADD|CR0238|Cybercrime|Quetta Satellite Town|26/02/2024|7|Unknown|Identity theft
+ADD|CR0239|Kidnapping|Karachi Saddar|27/02/2024|9|Hamza Ahmed|Child kidnapping
+ADD|CR0240|Theft|Lahore Garden Town|27/02/2024|5|Kamran Hassan|Jewelry theft
+ADD|CR0241|Burglary|Islamabad F-8|28/02/2024|7|Shahid Khan|Office burglary
+ADD|CR0242|Murder|Rawalpindi Sadiqabad|28/02/2024|10|Junaid Ali|Sectarian killing
+ADD|CR0243|Fraud|Multan Old Shujabad Road|29/02/2024|6|Tariq Shah|Check fraud
+ADD|CR0244|Drug Trafficking|Faisalabad Susan Road|29/02/2024|9|Wasim Ali|Methamphetamine seized
+ADD|CR0245|Assault|Peshawar University Town|01/03/2024|6|Hassan Malik|Domestic violence
+ADD|CR0246|Theft|Quetta Kasi Road|01/03/2024|5|Unknown|Laptop stolen
+ADD|CR0247|Robbery|Karachi Shahrah-e-Faisal|02/03/2024|8|Ahmed Hassan|Bank robbery
+ADD|CR0248|Cybercrime|Lahore Main Boulevard|02/03/2024|7|Unknown|Corporate hacking
+ADD|CR0249|Vandalism|Islamabad G-7|03/03/2024|4|Bilal Khan|Billboard damage
+ADD|CR0250|Kidnapping|Rawalpindi Dhoke Syedan|03/03/2024|9|Salman Ahmed|Businessman kidnapped
+ADD|CR0251|Theft|Multan Qasim Bela|04/03/2024|5|Rizwan Hassan|Vehicle parts stolen
+ADD|CR0252|Burglary|Faisalabad Millat Town|04/03/2024|7|Adnan Ali|Shop burglary
+ADD|CR0253|Murder|Peshawar Kohat Road|05/03/2024|10|Fahad Khan|Gang murder
+ADD|CR0254|Assault|Quetta Eastern Bypass|05/03/2024|6|Imran Shah|Road rage
+ADD|CR0255|Fraud|Karachi Clifton|06/03/2024|6|Talha Hassan|Ponzi scheme
+ADD|CR0256|Drug Trafficking|Lahore Ferozepur Road|06/03/2024|9|Omar Khan|Cocaine seized
+ADD|CR0257|Theft|Islamabad H-9|07/03/2024|5|Unknown|Cash theft
+ADD|CR0258|Robbery|Rawalpindi Bahria Town|07/03/2024|8|Ahmed Ali|Armed robbery
+ADD|CR0259|Cybercrime|Multan Nawabpur|08/03/2024|7|Unknown|Phishing attack
+ADD|CR0260|Assault|Faisalabad Ghulam Muhammad Abad|08/03/2024|6|Zain Butt|Street fight
+ADD|CR0261|Kidnapping|Peshawar Tehkal|09/03/2024|9|Hassan Shah|Child abduction
+ADD|CR0262|Theft|Quetta Samungli Road|09/03/2024|5|Bilal Hassan|Auto parts theft
+ADD|CR0263|Burglary|Karachi Landhi|10/03/2024|7|Usman Khan|Warehouse burglary
+ADD|CR0264|Murder|Lahore Shahdara|10/03/2024|10|Hamza Ali|Honor killing
+ADD|CR0265|Vandalism|Islamabad G-11|11/03/2024|4|Kamran Ahmed|Monument damage
+ADD|CR0266|Fraud|Rawalpindi Morgah|11/03/2024|6|Shahid Hassan|Insurance fraud
+ADD|CR0267|Drug Trafficking|Multan Mattital|12/03/2024|9|Junaid Khan|Drug smuggling
+ADD|CR0268|Theft|Faisalabad Dijkot Road|12/03/2024|5|Unknown|Mobile phone stolen
+ADD|CR0269|Robbery|Peshawar Jamrud Road|13/03/2024|8|Tariq Ali|Gold shop robbery
+ADD|CR0270|Assault|Quetta Satellite Town|13/03/2024|6|Wasim Shah|Bar fight
+ADD|CR0271|Cybercrime|Karachi Saddar|14/03/2024|7|Unknown|Online scam
+ADD|CR0272|Kidnapping|Lahore Garden Town|14/03/2024|9|Hassan Malik|Ransom case
+ADD|CR0273|Theft|Islamabad F-8|15/03/2024|5|Ahmed Khan|Wallet stolen
+ADD|CR0274|Burglary|Rawalpindi Sadiqabad|15/03/2024|7|Bilal Ali|House burglary
+ADD|CR0275|Murder|Multan Old Shujabad Road|16/03/2024|10|Salman Hassan|Murder case
+ADD|CR0276|Fraud|Faisalabad Susan Road|16/03/2024|6|Rizwan Khan|Real estate scam
+ADD|CR0277|Drug Trafficking|Peshawar University Town|17/03/2024|9|Adnan Ahmed|Heroin trafficking
+ADD|CR0278|Assault|Quetta Kasi Road|17/03/2024|6|Fahad Hassan|Domestic dispute
+ADD|CR0279|Theft|Karachi Shahrah-e-Faisal|18/03/2024|5|Unknown|Bike stolen
+ADD|CR0280|Robbery|Lahore Main Boulevard|18/03/2024|8|Imran Ali|Bank robbery
+ADD|CR0281|Cybercrime|Islamabad G-7|19/03/2024|7|Unknown|Ransomware attack
+ADD|CR0282|Vandalism|Rawalpindi Dhoke Syedan|19/03/2024|4|Talha Shah|Traffic light vandalism
+ADD|CR0283|Kidnapping|Multan Qasim Bela|20/03/2024|9|Omar Hassan|Child trafficking
+ADD|CR0284|Theft|Faisalabad Millat Town|20/03/2024|5|Ahmed Butt|Construction material theft
+ADD|CR0285|Burglary|Peshawar Kohat Road|21/03/2024|7|Zain Khan|Shop burglary
+ADD|CR0286|Murder|Quetta Eastern Bypass|21/03/2024|10|Hassan Ali|Contract killing
+ADD|CR0287|Assault|Karachi Clifton|22/03/2024|6|Bilal Shah|Workplace assault
+ADD|CR0288|Fraud|Lahore Ferozepur Road|22/03/2024|6|Usman Hassan|Credit card fraud
+ADD|CR0289|Drug Trafficking|Islamabad H-9|23/03/2024|9|Hamza Ahmed|Drug dealer caught
+ADD|CR0290|Theft|Rawalpindi Bahria Town|23/03/2024|5|Unknown|Jewelry theft
+ADD|CR0291|Robbery|Multan Nawabpur|24/03/2024|8|Kamran Ali|Exchange robbery
+ADD|CR0292|Cybercrime|Faisalabad Ghulam Muhammad Abad|24/03/2024|7|Unknown|Data breach
+ADD|CR0293|Assault|Peshawar Tehkal|25/03/2024|6|Shahid Khan|Road rage
+ADD|CR0294|Kidnapping|Quetta Samungli Road|25/03/2024|9|Junaid Hassan|Businessman kidnapped
+ADD|CR0295|Theft|Karachi Landhi|26/03/2024|5|Tariq Ali|Mobile snatching
+ADD|CR0296|Burglary|Lahore Shahdara|26/03/2024|7|Wasim Shah|Warehouse break-in
+ADD|CR0297|Murder|Islamabad G-11|27/03/2024|10|Hassan Malik|Gang warfare
+ADD|CR0298|Vandalism|Rawalpindi Morgah|27/03/2024|4|Ahmed Hassan|Park vandalism
+ADD|CR0299|Fraud|Multan Mattital|28/03/2024|6|Bilal Khan|Investment fraud
+ADD|CR0300|Drug Trafficking|Faisalabad Dijkot Road|28/03/2024|9|Salman Ali|Cocaine trafficking
+ADD|CR0301|Theft|Peshawar Jamrud Road|29/03/2024|5|Unknown|Auto parts theft
+ADD|CR0302|Robbery|Quetta Satellite Town|29/03/2024|8|Rizwan Ahmed|Armed robbery
+ADD|CR0303|Assault|Karachi Saddar|30/03/2024|6|Adnan Hassan|Bar fight
+ADD|CR0304|Cybercrime|Lahore Garden Town|30/03/2024|7|Unknown|Phishing attack
+ADD|CR0305|Kidnapping|Islamabad F-8|31/03/2024|9|Fahad Khan|Child abduction
+ADD|CR0306|Theft|Rawalpindi Sadiqabad|31/03/2024|5|Imran Shah|Cash theft
+ADD|CR0307|Burglary|Multan Old Shujabad Road|01/04/2024|7|Talha Hassan|Office burglary
+ADD|CR0308|Murder|Faisalabad Susan Road|01/04/2024|10|Omar Khan|Sectarian killing
+ADD|CR0309|Fraud|Peshawar University Town|02/04/2024|6|Ahmed Ali|Check fraud
+ADD|CR0310|Drug Trafficking|Quetta Kasi Road|02/04/2024|9|Zain Butt|Drug network busted
+ADD|CR0311|Assault|Karachi Shahrah-e-Faisal|03/04/2024|6|Hassan Shah|Street fight
+ADD|CR0312|Theft|Lahore Main Boulevard|03/04/2024|5|Unknown|Laptop stolen
+ADD|CR0313|Robbery|Islamabad G-7|04/04/2024|8|Bilal Hassan|Bank robbery
+ADD|CR0314|Cybercrime|Rawalpindi Dhoke Syedan|04/04/2024|7|Unknown|Online fraud
+ADD|CR0315|Vandalism|Multan Qasim Bela|05/04/2024|4|Usman Ali|Billboard damage
+ADD|CR0316|Kidnapping|Faisalabad Millat Town|05/04/2024|9|Hamza Khan|Ransom case
+ADD|CR0317|Theft|Peshawar Kohat Road|06/04/2024|5|Kamran Ahmed|Vehicle stolen
+ADD|CR0318|Burglary|Quetta Eastern Bypass|06/04/2024|7|Shahid Hassan|Warehouse burglary
+ADD|CR0319|Murder|Karachi Clifton|07/04/2024|10|Junaid Ali|Honor killing
+ADD|CR0320|Assault|Lahore Ferozepur Road|07/04/2024|6|Tariq Khan|Domestic violence
+ADD|CR0321|Fraud|Islamabad H-9|08/04/2024|6|Wasim Shah|Ponzi scheme
+ADD|CR0322|Drug Trafficking|Rawalpindi Bahria Town|08/04/2024|9|Hassan Malik|Heroin seized
+ADD|CR0323|Theft|Multan Nawabpur|09/04/2024|5|Unknown|Mobile phone stolen
+ADD|CR0324|Robbery|Faisalabad Ghulam Muhammad Abad|09/04/2024|8|Ahmed Hassan|Gold shop robbery
+ADD|CR0325|Cybercrime|Peshawar Tehkal|10/04/2024|7|Unknown|Ransomware attack
+ADD|CR0326|Assault|Quetta Samungli Road|10/04/2024|6|Bilal Khan|Road rage
+ADD|CR0327|Kidnapping|Karachi Landhi|11/04/2024|9|Salman Ali|Child kidnapping
+ADD|CR0328|Theft|Lahore Shahdara|11/04/2024|5|Rizwan Hassan|Bike stolen
+ADD|CR0329|Burglary|Islamabad G-11|12/04/2024|7|Adnan Ahmed|Shop burglary
+ADD|CR0330|Murder|Rawalpindi Morgah|12/04/2024|10|Fahad Khan|Gang murder
+ADD|CR0331|Vandalism|Multan Mattital|13/04/2024|4|Imran Hassan|Monument defacement
+ADD|CR0332|Fraud|Faisalabad Dijkot Road|13/04/2024|6|Talha Shah|Real estate fraud
+ADD|CR0333|Drug Trafficking|Peshawar Jamrud Road|14/04/2024|9|Omar Ali|Cocaine seized
+ADD|CR0334|Theft|Quetta Satellite Town|14/04/2024|5|Unknown|Jewelry theft
+ADD|CR0335|Robbery|Karachi Saddar|15/04/2024|8|Ahmed Butt|Bank robbery
+ADD|CR0336|Assault|Lahore Garden Town|15/04/2024|6|Zain Khan|Bar fight
+ADD|CR0337|Cybercrime|Islamabad F-8|16/04/2024|7|Unknown|Identity theft
+ADD|CR0338|Kidnapping|Rawalpindi Sadiqabad|16/04/2024|9|Hassan Ali|Businessman kidnapped
+ADD|CR0339|Theft|Multan Old Shujabad Road|17/04/2024|5|Bilal Shah|Construction material theft
+ADD|CR0340|Burglary|Faisalabad Susan Road|17/04/2024|7|Usman Hassan|Warehouse break-in
+ADD|CR0341|Murder|Peshawar University Town|18/04/2024|10|Hamza Ahmed|Contract killing
+ADD|CR0342|Fraud|Quetta Kasi Road|18/04/2024|6|Kamran Ali|Insurance fraud
+ADD|CR0343|Drug Trafficking|Karachi Shahrah-e-Faisal|19/04/2024|9|Shahid Khan|Drug smuggling
+ADD|CR0344|Assault|Lahore Main Boulevard|19/04/2024|6|Junaid Hassan|Workplace assault
+ADD|CR0345|Theft|Islamabad G-7|20/04/2024|5|Unknown|Cash theft
+ADD|CR0346|Robbery|Rawalpindi Dhoke Syedan|20/04/2024|8|Tariq Ali|Armed robbery
+ADD|CR0347|Cybercrime|Multan Qasim Bela|21/04/2024|7|Unknown|Phishing attack
+ADD|CR0348|Vandalism|Faisalabad Millat Town|21/04/2024|4|Wasim Shah|Traffic light vandalism
+ADD|CR0349|Kidnapping|Peshawar Kohat Road|22/04/2024|9|Hassan Malik|Child abduction
+ADD|CR0350|Theft|Quetta Eastern Bypass|22/04/2024|5|Ahmed Hassan|Auto parts theft
+ADD|CR0351|Burglary|Karachi Clifton|23/04/2024|7|Bilal Khan|Office burglary
+ADD|CR0352|Murder|Lahore Ferozepur Road|23/04/2024|10|Salman Ali|Gang warfare
+ADD|CR0353|Assault|Islamabad H-9|24/04/2024|6|Rizwan Hassan|Street fight
+ADD|CR0354|Fraud|Rawalpindi Bahria Town|24/04/2024|6|Adnan Ahmed|Credit card fraud
+ADD|CR0355|Drug Trafficking|Multan Nawabpur|25/04/2024|9|Fahad Khan|Drug dealer caught
+ADD|CR0356|Theft|Faisalabad Ghulam Muhammad Abad|25/04/2024|5|Unknown|Mobile snatching
+ADD|CR0357|Robbery|Peshawar Tehkal|26/04/2024|8|Imran Hassan|Gold shop robbery
+ADD|CR0358|Cybercrime|Quetta Samungli Road|26/04/2024|7|Unknown|Data breach
+ADD|CR0359|Assault|Karachi Landhi|27/04/2024|6|Talha Shah|Domestic dispute
+ADD|CR0360|Kidnapping|Lahore Shahdara|27/04/2024|9|Omar Khan|Ransom case
+ADD|CR0361|Theft|Islamabad G-11|28/04/2024|5|Ahmed Ali|Laptop stolen
+ADD|CR0362|Burglary|Rawalpindi Morgah|28/04/2024|7|Zain Butt|Shop burglary
+ADD|CR0363|Murder|Multan Mattital|29/04/2024|10|Hassan Shah|Sectarian killing
+ADD|CR0364|Vandalism|Faisalabad Dijkot Road|29/04/2024|4|Bilal Hassan|Park vandalism
+ADD|CR0365|Fraud|Peshawar Jamrud Road|30/04/2024|6|Usman Ali|Investment fraud
+ADD|CR0366|Drug Trafficking|Quetta Satellite Town|30/04/2024|9|Hamza Khan|Cocaine trafficking
+ADD|CR0367|Theft|Karachi Saddar|01/05/2024|5|Unknown|Vehicle parts stolen
+ADD|CR0368|Robbery|Lahore Garden Town|01/05/2024|8|Kamran Ahmed|Bank robbery
+ADD|CR0369|Assault|Islamabad F-8|02/05/2024|6|Shahid Hassan|Road rage
+ADD|CR0370|Cybercrime|Rawalpindi Sadiqabad|02/05/2024|7|Unknown|Online scam
+ADD|CR0371|Kidnapping|Multan Old Shujabad Road|03/05/2024|9|Junaid Ali|Child kidnapping
+ADD|CR0372|Theft|Faisalabad Susan Road|03/05/2024|5|Tariq Khan|Bike stolen
+ADD|CR0373|Burglary|Peshawar University Town|04/05/2024|7|Wasim Shah|Warehouse break-in
+ADD|CR0374|Murder|Quetta Kasi Road|04/05/2024|10|Hassan Malik|Honor killing
+ADD|CR0375|Fraud|Karachi Shahrah-e-Faisal|05/05/2024|6|Ahmed Hassan|Check fraud
+ADD|CR0376|Drug Trafficking|Lahore Main Boulevard|05/05/2024|9|Bilal Khan|Heroin seized
+ADD|CR0377|Assault|Islamabad G-7|06/05/2024|6|Salman Ali|Bar fight
+ADD|CR0378|Theft|Rawalpindi Dhoke Syedan|06/05/2024|5|Unknown|Cash theft
+ADD|CR0379|Robbery|Multan Qasim Bela|07/05/2024|8|Rizwan Hassan|Exchange robbery
+ADD|CR0380|Cybercrime|Faisalabad Millat Town|07/05/2024|7|Unknown|Ransomware attack
+ADD|CR0381|Vandalism|Peshawar Kohat Road|08/05/2024|4|Adnan Ahmed|Billboard damage
+ADD|CR0382|Kidnapping|Quetta Eastern Bypass|08/05/2024|9|Fahad Khan|Businessman kidnapped
+ADD|CR0383|Theft|Karachi Clifton|09/05/2024|5|Imran Hassan|Jewelry theft
+ADD|CR0384|Burglary|Lahore Ferozepur Road|09/05/2024|7|Talha Shah|Office burglary
+ADD|CR0385|Murder|Islamabad H-9|10/05/2024|10|Omar Ali|Gang murder
+ADD|CR0386|Assault|Rawalpindi Bahria Town|10/05/2024|6|Ahmed Butt|Street fight
+ADD|CR0387|Fraud|Multan Nawabpur|11/05/2024|6|Zain Khan|Ponzi scheme
+ADD|CR0388|Drug Trafficking|Faisalabad Ghulam Muhammad Abad|11/05/2024|9|Hassan Ali|Drug network busted
+ADD|CR0389|Theft|Peshawar Tehkal|12/05/2024|5|Unknown|Mobile phone stolen
+ADD|CR0390|Robbery|Quetta Samungli Road|12/05/2024|8|Bilal Shah|Gold shop robbery
+ADD|CR0391|Cybercrime|Karachi Landhi|13/05/2024|7|Unknown|Phishing attack
+ADD|CR0392|Assault|Lahore Shahdara|13/05/2024|6|Usman Hassan|Domestic violence
+ADD|CR0393|Kidnapping|Islamabad G-11|14/05/2024|9|Hamza Ahmed|Child abduction
+ADD|CR0394|Theft|Rawalpindi Morgah|14/05/2024|5|Kamran Ali|Auto parts theft
+ADD|CR0395|Burglary|Multan Mattital|15/05/2024|7|Shahid Khan|Warehouse burglary
+ADD|CR0396|Murder|Faisalabad Dijkot Road|15/05/2024|10|Junaid Hassan|Contract killing
+ADD|CR0397|Vandalism|Peshawar Jamrud Road|16/05/2024|4|Tariq Ali|Monument damage
+ADD|CR0398|Fraud|Quetta Satellite Town|16/05/2024|6|Wasim Shah|Real estate scam
+ADD|CR0399|Drug Trafficking|Karachi Saddar|17/05/2024|9|Hassan Malik|Cocaine seized
+ADD|CR0400|Theft|Lahore Garden Town|17/05/2024|5|Unknown|Construction material theft
+ADD|CR0401|Robbery|Islamabad F-8|18/05/2024|8|Ahmed Hassan|Bank robbery
+ADD|CR0402|Assault|Rawalpindi Sadiqabad|18/05/2024|6|Bilal Khan|Road rage
+ADD|CR0403|Cybercrime|Multan Old Shujabad Road|19/05/2024|7|Unknown|Identity theft
+ADD|CR0404|Kidnapping|Faisalabad Susan Road|19/05/2024|9|Salman Ali|Ransom case
+ADD|CR0405|Theft|Peshawar University Town|20/05/2024|5|Rizwan Hassan|Bike stolen
+ADD|CR0406|Burglary|Quetta Kasi Road|20/05/2024|7|Adnan Ahmed|Shop burglary
+ADD|CR0407|Murder|Karachi Shahrah-e-Faisal|21/05/2024|10|Fahad Khan|Gang warfare
+ADD|CR0408|Fraud|Lahore Main Boulevard|21/05/2024|6|Imran Hassan|Insurance fraud
+ADD|CR0409|Drug Trafficking|Islamabad G-7|22/05/2024|9|Talha Shah|Drug smuggling
+ADD|CR0410|Assault|Rawalpindi Dhoke Syedan|22/05/2024|6|Omar Ali|Bar fight
+ADD|CR0411|Theft|Multan Qasim Bela|23/05/2024|5|Unknown|Laptop stolen
+ADD|CR0412|Robbery|Faisalabad Millat Town|23/05/2024|8|Ahmed Butt|Armed robbery
+ADD|CR0413|Cybercrime|Peshawar Kohat Road|24/05/2024|7|Unknown|Data breach
+ADD|CR0414|Vandalism|Quetta Eastern Bypass|24/05/2024|4|Zain Khan|Traffic light vandalism
+ADD|CR0415|Kidnapping|Karachi Clifton|25/05/2024|9|Hassan Ali|Child trafficking
+ADD|CR0416|Theft|Lahore Ferozepur Road|25/05/2024|5|Bilal Shah|Cash theft
+ADD|CR0417|Burglary|Islamabad H-9|26/05/2024|7|Usman Hassan|Warehouse break-in
+ADD|CR0418|Murder|Rawalpindi Bahria Town|26/05/2024|10|Hamza Ahmed|Sectarian killing
+ADD|CR0419|Assault|Multan Nawabpur|27/05/2024|6|Kamran Ali|Workplace assault
+ADD|CR0420|Fraud|Faisalabad Ghulam Muhammad Abad|27/05/2024|6|Shahid Khan|Credit card fraud
+ADD|CR0421|Drug Trafficking|Peshawar Tehkal|28/05/2024|9|Junaid Hassan|Drug dealer caught
+ADD|CR0422|Theft|Quetta Samungli Road|28/05/2024|5|Unknown|Jewelry theft
+ADD|CR0423|Robbery|Karachi Landhi|29/05/2024|8|Tariq Ali|Gold shop robbery
+ADD|CR0424|Cybercrime|Lahore Shahdara|29/05/2024|7|Unknown|Online scam
+ADD|CR0425|Assault|Islamabad G-11|30/05/2024|6|Wasim Shah|Street fight
+ADD|CR0426|Kidnapping|Rawalpindi Morgah|30/05/2024|9|Hassan Malik|Businessman kidnapped
+ADD|CR0427|Theft|Multan Mattital|31/05/2024|5|Ahmed Hassan|Mobile snatching
+ADD|CR0428|Burglary|Faisalabad Dijkot Road|31/05/2024|7|Bilal Khan|Office burglary
+ADD|CR0429|Murder|Peshawar Jamrud Road|01/06/2024|10|Salman Ali|Honor killing
+ADD|CR0430|Vandalism|Quetta Satellite Town|01/06/2024|4|Rizwan Hassan|Park vandalism
+ADD|CR0431|Fraud|Karachi Saddar|02/06/2024|6|Adnan Ahmed|Investment fraud
+ADD|CR0432|Drug Trafficking|Lahore Garden Town|02/06/2024|9|Fahad Khan|Cocaine trafficking
+ADD|CR0433|Theft|Islamabad F-8|03/06/2024|5|Unknown|Auto parts theft
+ADD|CR0434|Robbery|Rawalpindi Sadiqabad|03/06/2024|8|Imran Hassan|Bank robbery
+ADD|CR0435|Assault|Multan Old Shujabad Road|04/06/2024|6|Talha Shah|Domestic dispute
+ADD|CR0436|Cybercrime|Faisalabad Susan Road|04/06/2024|7|Unknown|Ransomware attack
+ADD|CR0437|Kidnapping|Peshawar University Town|05/06/2024|9|Omar Ali|Child abduction
+ADD|CR0438|Theft|Quetta Kasi Road|05/06/2024|5|Ahmed Butt|Vehicle stolen
+ADD|CR0439|Burglary|Karachi Shahrah-e-Faisal|06/06/2024|7|Zain Khan|Shop burglary
+ADD|CR0440|Murder|Lahore Main Boulevard|06/06/2024|10|Hassan Ali|Gang murder
+ADD|CR0441|Fraud|Islamabad G-7|07/06/2024|6|Bilal Shah|Check fraud
+ADD|CR0442|Drug Trafficking|Rawalpindi Dhoke Syedan|07/06/2024|9|Usman Hassan|Heroin seized
+ADD|CR0443|Assault|Multan Qasim Bela|08/06/2024|6|Hamza Ahmed|Road rage
+ADD|CR0444|Theft|Faisalabad Millat Town|08/06/2024|5|Unknown|Bike stolen
+ADD|CR0445|Robbery|Peshawar Kohat Road|09/06/2024|8|Kamran Ali|Exchange robbery
+ADD|CR0446|Cybercrime|Quetta Eastern Bypass|09/06/2024|7|Unknown|Phishing attack
+ADD|CR0447|Vandalism|Karachi Clifton|10/06/2024|4|Shahid Khan|Billboard damage
+ADD|CR0448|Kidnapping|Lahore Ferozepur Road|10/06/2024|9|Junaid Hassan|Ransom case
+ADD|CR0449|Theft|Islamabad H-9|11/06/2024|5|Tariq Ali|Construction material theft
+ADD|CR0450|Burglary|Rawalpindi Bahria Town|11/06/2024|7|Wasim Shah|Warehouse break-in
+ADD|CR0451|Murder|Multan Nawabpur|12/06/2024|10|Hassan Malik|Contract killing
+ADD|CR0452|Assault|Faisalabad Ghulam Muhammad Abad|12/06/2024|6|Ahmed Hassan|Bar fight
+ADD|CR0453|Fraud|Peshawar Tehkal|13/06/2024|6|Bilal Khan|Ponzi scheme
+ADD|CR0454|Drug Trafficking|Quetta Samungli Road|13/06/2024|9|Salman Ali|Drug network busted
+ADD|CR0455|Theft|Karachi Landhi|14/06/2024|5|Unknown|Cash theft
+ADD|CR0456|Robbery|Lahore Shahdara|14/06/2024|8|Rizwan Hassan|Armed robbery
+ADD|CR0457|Cybercrime|Islamabad G-11|15/06/2024|7|Unknown|Data breach
+ADD|CR0458|Assault|Rawalpindi Morgah|15/06/2024|6|Adnan Ahmed|Street fight
+ADD|CR0459|Kidnapping|Multan Mattital|16/06/2024|9|Fahad Khan|Child kidnapping
+ADD|CR0460|Theft|Faisalabad Dijkot Road|16/06/2024|5|Imran Hassan|Jewelry theft
+ADD|CR0461|Burglary|Peshawar Jamrud Road|17/06/2024|7|Talha Shah|Office burglary
+ADD|CR0462|Murder|Quetta Satellite Town|17/06/2024|10|Omar Ali|Gang warfare
+ADD|CR0463|Vandalism|Karachi Saddar|18/06/2024|4|Ahmed Butt|Monument defacement
+ADD|CR0464|Fraud|Lahore Garden Town|18/06/2024|6|Zain Khan|Real estate fraud
+ADD|CR0465|Drug Trafficking|Islamabad F-8|19/06/2024|9|Hassan Ali|Cocaine seized
+ADD|CR0466|Theft|Rawalpindi Sadiqabad|19/06/2024|5|Unknown|Mobile phone stolen
+ADD|CR0467|Robbery|Multan Old Shujabad Road|20/06/2024|8|Bilal Shah|Gold shop robbery
+ADD|CR0468|Assault|Faisalabad Susan Road|20/06/2024|6|Usman Hassan|Domestic violence
+ADD|CR0469|Cybercrime|Peshawar University Town|21/06/2024|7|Unknown|Identity theft
+ADD|CR0470|Kidnapping|Quetta Kasi Road|21/06/2024|
+ADD|CR0471|Assault|Karachi Shahrah-e-Faisal|22/06/2024|6|Hamza Ahmed|Neighborhood dispute
+ADD|CR0472|Theft|Lahore Main Boulevard|22/06/2024|5|Unknown|Laptop stolen
+ADD|CR0473|Robbery|Islamabad G-7|23/06/2024|8|Kamran Ali|Bank robbery
+ADD|CR0474|Cybercrime|Rawalpindi Dhoke Syedan|23/06/2024|7|Unknown|Online scam
+ADD|CR0475|Kidnapping|Multan Qasim Bela|24/06/2024|9|Shahid Khan|Child abduction
+ADD|CR0476|Theft|Faisalabad Millat Town|24/06/2024|5|Junaid Hassan|Vehicle parts stolen
+ADD|CR0477|Burglary|Peshawar Kohat Road|25/06/2024|7|Tariq Ali|Shop burglary
+ADD|CR0478|Murder|Quetta Eastern Bypass|25/06/2024|10|Wasim Shah|Honor killing
+ADD|CR0479|Vandalism|Karachi Clifton|26/06/2024|4|Hassan Malik|Park vandalism
+ADD|CR0480|Fraud|Lahore Ferozepur Road|26/06/2024|6|Ahmed Hassan|Investment fraud
+ADD|CR0481|Drug Trafficking|Islamabad H-9|27/06/2024|9|Bilal Khan|Drug dealer caught
+ADD|CR0482|Assault|Rawalpindi Bahria Town|27/06/2024|6|Salman Ali|Bar fight
+ADD|CR0483|Theft|Multan Nawabpur|28/06/2024|5|Unknown|Mobile snatching
+ADD|CR0484|Robbery|Faisalabad Ghulam Muhammad Abad|28/06/2024|8|Rizwan Hassan|Gold shop robbery
+ADD|CR0485|Cybercrime|Peshawar Tehkal|29/06/2024|7|Unknown|Ransomware attack
+ADD|CR0486|Kidnapping|Quetta Samungli Road|29/06/2024|9|Adnan Ahmed|Businessman kidnapped
+ADD|CR0487|Theft|Karachi Landhi|30/06/2024|5|Fahad Khan|Cash theft
+ADD|CR0488|Burglary|Lahore Shahdara|30/06/2024|7|Imran Hassan|Warehouse break-in
+ADD|CR0489|Murder|Islamabad G-11|01/07/2024|10|Talha Shah|Gang murder
+ADD|CR0490|Assault|Rawalpindi Morgah|01/07/2024|6|Omar Ali|Street fight
+ADD|CR0491|Fraud|Multan Mattital|02/07/2024|6|Ahmed Butt|Check fraud
+ADD|CR0492|Drug Trafficking|Faisalabad Dijkot Road|02/07/2024|9|Zain Khan|Heroin seized
+ADD|CR0493|Theft|Peshawar Jamrud Road|03/07/2024|5|Unknown|Bike stolen
+ADD|CR0494|Robbery|Quetta Satellite Town|03/07/2024|8|Hassan Ali|Armed robbery
+ADD|CR0495|Cybercrime|Karachi Saddar|04/07/2024|7|Unknown|Phishing attack
+ADD|CR0496|Vandalism|Lahore Garden Town|04/07/2024|4|Bilal Shah|Billboard damage
+ADD|CR0497|Kidnapping|Islamabad F-8|05/07/2024|9|Usman Hassan|Ransom case
+ADD|CR0498|Theft|Rawalpindi Sadiqabad|05/07/2024|5|Hamza Ahmed|Auto parts theft
+ADD|CR0499|Burglary|Multan Old Shujabad Road|06/07/2024|7|Kamran Ali|Office burglary
+ADD|CR0500|Murder|Faisalabad Susan Road|06/07/2024|10|Shahid Khan|Contract killing
+ADD|CR0501|Assault|Peshawar University Town|07/07/2024|6|Junaid Hassan|Domestic violence
+ADD|CR0502|Fraud|Quetta Kasi Road|07/07/2024|6|Tariq Ali|Ponzi scheme
+ADD|CR0503|Drug Trafficking|Karachi Shahrah-e-Faisal|08/07/2024|9|Wasim Shah|Cocaine seized
+ADD|CR0504|Theft|Lahore Main Boulevard|08/07/2024|5|Unknown|Jewelry theft
+ADD|CR0505|Robbery|Islamabad G-7|09/07/2024|8|Hassan Malik|Bank robbery
+ADD|CR0506|Cybercrime|Rawalpindi Dhoke Syedan|09/07/2024|7|Unknown|Data breach
+ADD|CR0507|Assault|Multan Qasim Bela|10/07/2024|6|Ahmed Hassan|Road rage
+ADD|CR0508|Kidnapping|Faisalabad Millat Town|10/07/2024|9|Bilal Khan|Child kidnapping
+ADD|CR0509|Theft|Peshawar Kohat Road|11/07/2024|5|Salman Ali|Construction material theft
+ADD|CR0510|Burglary|Quetta Eastern Bypass|11/07/2024|7|Rizwan Hassan|Shop burglary
+ADD|CR0511|Murder|Karachi Clifton|12/07/2024|10|Adnan Ahmed|Gang warfare
+ADD|CR0512|Vandalism|Lahore Ferozepur Road|12/07/2024|4|Fahad Khan|Monument damage
+ADD|CR0513|Fraud|Islamabad H-9|13/07/2024|6|Imran Hassan|Real estate scam
+ADD|CR0514|Drug Trafficking|Rawalpindi Bahria Town|13/07/2024|9|Talha Shah|Drug network busted
+ADD|CR0515|Theft|Multan Nawabpur|14/07/2024|5|Unknown|Laptop stolen
+ADD|CR0516|Robbery|Faisalabad Ghulam Muhammad Abad|14/07/2024|8|Omar Ali|Gold shop robbery
+ADD|CR0517|Cybercrime|Peshawar Tehkal|15/07/2024|7|Unknown|Online fraud
+ADD|CR0518|Assault|Quetta Samungli Road|15/07/2024|6|Ahmed Butt|Bar fight
+ADD|CR0519|Kidnapping|Karachi Landhi|16/07/2024|9|Zain Khan|Child abduction
+ADD|CR0520|Theft|Lahore Shahdara|16/07/2024|5|Hassan Ali|Mobile phone stolen
+ADD|CR0521|Burglary|Islamabad G-11|17/07/2024|7|Bilal Shah|Warehouse burglary
+ADD|CR0522|Murder|Rawalpindi Morgah|17/07/2024|10|Usman Hassan|Sectarian killing
+ADD|CR0523|Fraud|Multan Mattital|18/07/2024|6|Hamza Ahmed|Insurance fraud
+ADD|CR0524|Drug Trafficking|Faisalabad Dijkot Road|18/07/2024|9|Kamran Ali|Cocaine trafficking
+ADD|CR0525|Assault|Peshawar Jamrud Road|19/07/2024|6|Shahid Khan|Workplace assault
+ADD|CR0526|Theft|Quetta Satellite Town|19/07/2024|5|Unknown|Cash theft
+ADD|CR0527|Robbery|Karachi Saddar|20/07/2024|8|Junaid Hassan|Bank robbery
+ADD|CR0528|Cybercrime|Lahore Garden Town|20/07/2024|7|Unknown|Ransomware attack
+ADD|CR0529|Vandalism|Islamabad F-8|21/07/2024|4|Tariq Ali|Traffic light vandalism
+ADD|CR0530|Kidnapping|Rawalpindi Sadiqabad|21/07/2024|9|Wasim Shah|Businessman kidnapped
+ADD|CR0531|Theft|Multan Old Shujabad Road|22/07/2024|5|Hassan Malik|Bike stolen
+ADD|CR0532|Burglary|Faisalabad Susan Road|22/07/2024|7|Ahmed Hassan|Office burglary
+ADD|CR0533|Murder|Peshawar University Town|23/07/2024|10|Bilal Khan|Honor killing
+ADD|CR0534|Assault|Quetta Kasi Road|23/07/2024|6|Salman Ali|Street fight
+ADD|CR0535|Fraud|Karachi Shahrah-e-Faisal|24/07/2024|6|Rizwan Hassan|Credit card fraud
+ADD|CR0536|Drug Trafficking|Lahore Main Boulevard|24/07/2024|9|Adnan Ahmed|Heroin seized
+ADD|CR0537|Theft|Islamabad G-7|25/07/2024|5|Unknown|Auto parts theft
+ADD|CR0538|Robbery|Rawalpindi Dhoke Syedan|25/07/2024|8|Fahad Khan|Armed robbery
+ADD|CR0539|Cybercrime|Multan Qasim Bela|26/07/2024|7|Unknown|Identity theft
+ADD|CR0540|Assault|Faisalabad Millat Town|26/07/2024|6|Imran Hassan|Domestic dispute
+ADD|CR0541|Kidnapping|Peshawar Kohat Road|27/07/2024|9|Talha Shah|Child trafficking
+ADD|CR0542|Theft|Quetta Eastern Bypass|27/07/2024|5|Omar Ali|Vehicle stolen
+ADD|CR0543|Burglary|Karachi Clifton|28/07/2024|7|Ahmed Butt|Shop burglary
+ADD|CR0544|Murder|Lahore Ferozepur Road|28/07/2024|10|Zain Khan|Gang murder
+ADD|CR0545|Vandalism|Islamabad H-9|29/07/2024|4|Hassan Ali|Park vandalism
+ADD|CR0546|Fraud|Rawalpindi Bahria Town|29/07/2024|6|Bilal Shah|Investment fraud
+ADD|CR0547|Drug Trafficking|Multan Nawabpur|30/07/2024|9|Usman Hassan|Drug smuggling
+ADD|CR0548|Theft|Faisalabad Ghulam Muhammad Abad|30/07/2024|5|Unknown|Jewelry theft
+ADD|CR0549|Robbery|Peshawar Tehkal|31/07/2024|8|Hamza Ahmed|Gold shop robbery
+ADD|CR0550|Assault|Quetta Samungli Road|31/07/2024|6|Kamran Ali|Road rage
+ADD|CR0551|Cybercrime|Karachi Landhi|01/08/2024|7|Unknown|Phishing attack
+ADD|CR0552|Kidnapping|Lahore Shahdara|01/08/2024|9|Shahid Khan|Ransom case
+ADD|CR0553|Theft|Islamabad G-11|02/08/2024|5|Junaid Hassan|Construction material theft
+ADD|CR0554|Burglary|Rawalpindi Morgah|02/08/2024|7|Tariq Ali|Warehouse break-in
+ADD|CR0555|Murder|Multan Mattital|03/08/2024|10|Wasim Shah|Contract killing
+ADD|CR0556|Fraud|Faisalabad Dijkot Road|03/08/2024|6|Hassan Malik|Check fraud
+ADD|CR0557|Drug Trafficking|Peshawar Jamrud Road|04/08/2024|9|Ahmed Hassan|Cocaine seized
+ADD|CR0558|Assault|Quetta Satellite Town|04/08/2024|6|Bilal Khan|Bar fight
+ADD|CR0559|Theft|Karachi Saddar|05/08/2024|5|Unknown|Mobile snatching
+ADD|CR0560|Robbery|Lahore Garden Town|05/08/2024|8|Salman Ali|Bank robbery
+ADD|CR0561|Cybercrime|Islamabad F-8|06/08/2024|7|Unknown|Data breach
+ADD|CR0562|Vandalism|Rawalpindi Sadiqabad|06/08/2024|4|Rizwan Hassan|Billboard damage
+ADD|CR0563|Kidnapping|Multan Old Shujabad Road|07/08/2024|9|Adnan Ahmed|Child abduction
+ADD|CR0564|Theft|Faisalabad Susan Road|07/08/2024|5|Fahad Khan|Cash theft
+ADD|CR0565|Burglary|Peshawar University Town|08/08/2024|7|Imran Hassan|Office burglary
+ADD|CR0566|Murder|Quetta Kasi Road|08/08/2024|10|Talha Shah|Gang warfare
+ADD|CR0567|Assault|Karachi Shahrah-e-Faisal|09/08/2024|6|Omar Ali|Street fight
+ADD|CR0568|Fraud|Lahore Main Boulevard|09/08/2024|6|Ahmed Butt|Ponzi scheme
+ADD|CR0569|Drug Trafficking|Islamabad G-7|10/08/2024|9|Zain Khan|Drug dealer caught
+ADD|CR0570|Theft|Rawalpindi Dhoke Syedan|10/08/2024|5|Unknown|Laptop stolen
+ADD|CR0571|Robbery|Multan Qasim Bela|11/08/2024|8|Hassan Ali|Armed robbery
+ADD|CR0572|Cybercrime|Faisalabad Millat Town|11/08/2024|7|Unknown|Online scam
+ADD|CR0573|Assault|Peshawar Kohat Road|12/08/2024|6|Bilal Shah|Domestic violence
+ADD|CR0574|Kidnapping|Quetta Eastern Bypass|12/08/2024|9|Usman Hassan|Businessman kidnapped
+ADD|CR0575|Theft|Karachi Clifton|13/08/2024|5|Hamza Ahmed|Bike stolen
+ADD|CR0576|Burglary|Lahore Ferozepur Road|13/08/2024|7|Kamran Ali|Shop burglary
+ADD|CR0577|Murder|Islamabad H-9|14/08/2024|10|Shahid Khan|Sectarian killing
+ADD|CR0578|Vandalism|Rawalpindi Bahria Town|14/08/2024|4|Junaid Hassan|Monument defacement
+ADD|CR0579|Fraud|Multan Nawabpur|15/08/2024|6|Tariq Ali|Real estate fraud
+ADD|CR0580|Drug Trafficking|Faisalabad Ghulam Muhammad Abad|15/08/2024|9|Wasim Shah|Heroin trafficking
+ADD|CR0581|Theft|Peshawar Tehkal|16/08/2024|5|Unknown|Auto parts theft
+ADD|CR0582|Robbery|Quetta Samungli Road|16/08/2024|8|Hassan Malik|Gold shop robbery
+ADD|CR0583|Assault|Karachi Landhi|17/08/2024|6|Ahmed Hassan|Road rage
+ADD|CR0584|Cybercrime|Lahore Shahdara|17/08/2024|7|Unknown|Ransomware attack
+ADD|CR0585|Kidnapping|Islamabad G-11|18/08/2024|9|Bilal Khan|Child kidnapping
+ADD|CR0586|Theft|Rawalpindi Morgah|18/08/2024|5|Salman Ali|Vehicle parts stolen
+ADD|CR0587|Burglary|Multan Mattital|19/08/2024|7|Rizwan Hassan|Warehouse burglary
+ADD|CR0588|Murder|Faisalabad Dijkot Road|19/08/2024|10|Adnan Ahmed|Honor killing
+ADD|CR0589|Fraud|Peshawar Jamrud Road|20/08/2024|6|Fahad Khan|Insurance fraud
+ADD|CR0590|Drug Trafficking|Quetta Satellite Town|20/08/2024|9|Imran Hassan|Cocaine trafficking
+ADD|CR0591|Assault|Karachi Saddar|21/08/2024|6|Talha Shah|Bar fight
+ADD|CR0592|Theft|Lahore Garden Town|21/08/2024|5|Unknown|Jewelry theft
+ADD|CR0593|Robbery|Islamabad F-8|22/08/2024|8|Omar Ali|Bank robbery
+ADD|CR0594|Cybercrime|Rawalpindi Sadiqabad|22/08/2024|7|Unknown|Phishing attack
+ADD|CR0595|Vandalism|Multan Old Shujabad Road|23/08/2024|4|Ahmed Butt|Park vandalism
+ADD|CR0596|Kidnapping|Faisalabad Susan Road|23/08/2024|9|Zain Khan|Ransom case
+ADD|CR0597|Theft|Peshawar University Town|24/08/2024|5|Hassan Ali|Mobile phone stolen
+ADD|CR0598|Burglary|Quetta Kasi Road|24/08/2024|7|Bilal Shah|Office burglary
+ADD|CR0599|Murder|Karachi Shahrah-e-Faisal|25/08/2024|10|Usman Hassan|Gang murder
+ADD|CR0600|Assault|Lahore Main Boulevard|25/08/2024|6|Hamza Ahmed|Street fight
+ADD|CR0601|Fraud|Islamabad G-7|26/08/2024|6|Kamran Ali|Credit card fraud
+ADD|CR0602|Drug Trafficking|Rawalpindi Dhoke Syedan|26/08/2024|9|Shahid Khan|Drug network busted
+ADD|CR0603|Theft|Multan Qasim Bela|27/08/2024|5|Unknown|Construction material theft
+ADD|CR0604|Robbery|Faisalabad Millat Town|27/08/2024|8|Junaid Hassan|Armed robbery
+ADD|CR0605|Cybercrime|Peshawar Kohat Road|28/08/2024|7|Unknown|Identity theft
+ADD|CR0606|Assault|Quetta Eastern Bypass|28/08/2024|6|Tariq Ali|Workplace assault
+ADD|CR0607|Kidnapping|Karachi Clifton|29/08/2024|9|Wasim Shah|Child abduction
+ADD|CR0608|Theft|Lahore Ferozepur Road|29/08/2024|5|Hassan Malik|Cash theft
+ADD|CR0609|Burglary|Islamabad H-9|30/08/2024|7|Ahmed Hassan|Shop burglary
+ADD|CR0610|Murder|Rawalpindi Bahria Town|30/08/2024|10|Bilal Khan|Contract killing
+ADD|CR0611|Vandalism|Multan Nawabpur|31/08/2024|4|Salman Ali|Traffic light vandalism
+ADD|CR0612|Fraud|Faisalabad Ghulam Muhammad Abad|31/08/2024|6|Rizwan Hassan|Investment fraud
+ADD|CR0613|Drug Trafficking|Peshawar Tehkal|01/09/2024|9|Adnan Ahmed|Heroin seized
+ADD|CR0614|Theft|Quetta Samungli Road|01/09/2024|5|Unknown|Bike stolen
+ADD|CR0615|Robbery|Karachi Landhi|02/09/2024|8|Fahad Khan|Gold shop robbery
+ADD|CR0616|Assault|Lahore Shahdara|02/09/2024|6|Imran Hassan|Domestic dispute
+ADD|CR0617|Cybercrime|Islamabad G-11|03/09/2024|7|Unknown|Data breach
+ADD|CR0618|Kidnapping|Rawalpindi Morgah|03/09/2024|9|Talha Shah|Businessman kidnapped
+ADD|CR0619|Theft|Multan Mattital|04/09/2024|5|Omar Ali|Auto parts theft
+ADD|CR0620|Burglary|Faisalabad Dijkot Road|04/09/2024|7|Ahmed Butt|Warehouse break-in
+ADD|CR0621|Murder|Peshawar Jamrud Road|05/09/2024|10|Zain Khan|Gang warfare
+ADD|CR0622|Fraud|Quetta Satellite Town|05/09/2024|6|Hassan Ali|Check fraud
+ADD|CR0623|Drug Trafficking|Karachi Saddar|06/09/2024|9|Bilal Shah|Cocaine seized
+ADD|CR0624|Assault|Lahore Garden Town|06/09/2024|6|Usman Hassan|Bar fight
+ADD|CR0625|Theft|Islamabad F-8|07/09/2024|5|Unknown|Laptop stolen
+ADD|CR0626|Robbery|Rawalpindi Sadiqabad|07/09/2024|8|Hamza Ahmed|Bank robbery
+ADD|CR0627|Cybercrime|Multan Old Shujabad Road|08/09/2024|7|Unknown|Online fraud
+ADD|CR0628|Vandalism|Faisalabad Susan Road|08/09/2024|4|Kamran Ali|Billboard damage
+ADD|CR0629|Kidnapping|Peshawar University Town|09/09/2024|9|Shahid Khan|Child kidnapping
+ADD|CR0630|Theft|Quetta Kasi Road|09/09/2024|5|Junaid Hassan|Vehicle stolen
+ADD|CR0631|Burglary|Karachi Shahrah-e-Faisal|10/09/2024|7|Tariq Ali|Shop burglary
+ADD|CR0632|Murder|Lahore Main Boulevard|10/09/2024|10|Wasim Shah|Sectarian killing
+ADD|CR0633|Assault|Islamabad G-7|11/09/2024|6|Hassan Malik|Road rage
+ADD|CR0634|Fraud|Rawalpindi Dhoke Syedan|11/09/2024|6|Ahmed Hassan|Ponzi scheme
+ADD|CR0635|Drug Trafficking|Multan Qasim Bela|12/09/2024|9|Bilal Khan|Drug smuggling
+ADD|CR0636|Theft|Faisalabad Millat Town|12/09/2024|5|Unknown|Mobile snatching
+ADD|CR0637|Robbery|Peshawar Kohat Road|13/09/2024|8|Salman Ali|Armed robbery
+ADD|CR0638|Cybercrime|Quetta Eastern Bypass|13/09/2024|7|Unknown|Ransomware attack
+ADD|CR0639|Assault|Karachi Clifton|14/09/2024|6|Rizwan Hassan|Street fight
+ADD|CR0640|Kidnapping|Lahore Ferozepur Road|14/09/2024|9|Adnan Ahmed|Ransom case
+ADD|CR0641|Theft|Islamabad H-9|15/09/2024|5|Fahad Khan|Jewelry theft
+ADD|CR0642|Burglary|Rawalpindi Bahria Town|15/09/2024|7|Imran Hassan|Office burglary
+ADD|CR0643|Murder|Multan Nawabpur|16/09/2024|10|Talha Shah|Honor killing
+ADD|CR0644|Vandalism|Faisalabad Ghulam Muhammad Abad|16/09/2024|4|Omar Ali|Monument damage
+ADD|CR0645|Fraud|Peshawar Tehkal|17/09/2024|6|Ahmed Butt|Real estate scam
+ADD|CR0646|Drug Trafficking|Quetta Samungli Road|17/09/2024|9|Zain Khan|Cocaine trafficking
+ADD|CR0647|Theft|Karachi Landhi|18/09/2024|5|Unknown|Cash theft
+ADD|CR0648|Robbery|Lahore Shahdara|18/09/2024|8|Hassan Ali|Gold shop robbery
+ADD|CR0649|Assault|Islamabad G-11|19/09/2024|6|Bilal Shah|Domestic violence
+ADD|CR0650|Cybercrime|Rawalpindi Morgah|19/09/2024|7|Unknown|Phishing attack
+ADD|CR0651|Kidnapping|Multan Mattital|20/09/2024|9|Usman Hassan|Child abduction
+ADD|CR0652|Theft|Faisalabad Dijkot Road|20/09/2024|5|Hamza Ahmed|Construction material theft
+ADD|CR0653|Burglary|Peshawar Jamrud Road|21/09/2024|7|Kamran Ali|Warehouse burglary
+ADD|CR0654|Murder|Quetta Satellite Town|21/09/2024|10|Shahid Khan|Gang murder
+ADD|CR0655|Fraud|Karachi Saddar|22/09/2024|6|Junaid Hassan|Insurance fraud
+ADD|CR0656|Drug Trafficking|Lahore Garden Town|22/09/2024|9|Tariq Ali|Drug dealer caught
+ADD|CR0657|Assault|Islamabad F-8|23/09/2024|6|Wasim Shah|Bar fight
+ADD|CR0658|Theft|Rawalpindi Sadiqabad|23/09/2024|5|Unknown|Bike stolen
+ADD|CR0659|Robbery|Multan Old Shujabad Road|24/09/2024|8|Hassan Malik|Bank robbery
+ADD|CR0660|Cybercrime|Faisalabad Susan Road|24/09/2024|7|Unknown|Data breach
+ADD|CR0661|Vandalism|Peshawar University Town|25/09/2024|4|Ahmed Hassan|Park vandalism
+ADD|CR0662|Kidnapping|Quetta Kasi Road|25/09/2024|9|Bilal Khan|Businessman kidnapped
+ADD|CR0663|Theft|Karachi Shahrah-e-Faisal|26/09/2024|5|Salman Ali|Auto parts theft
+ADD|CR0664|Burglary|Lahore Main Boulevard|26/09/2024|7|Rizwan Hassan|Shop burglary
+ADD|CR0665|Murder|Islamabad G-7|27/09/2024|10|Adnan Ahmed|Contract killing
+ADD|CR0666|Assault|Rawalpindi Dhoke Syedan|27/09/2024|6|Fahad Khan|Street fight
+ADD|CR0667|Fraud|Multan Qasim Bela|28/09/2024|6|Imran Hassan|Credit card fraud
+ADD|CR0668|Drug Trafficking|Faisalabad Millat Town|28/09/2024|9|Talha Shah|Heroin trafficking
+ADD|CR0669|Theft|Peshawar Kohat Road|29/09/2024|5|Unknown|Laptop stolen
+ADD|CR0670|Robbery|Quetta Eastern Bypass|29/09/2024|8|Omar Ali|Armed robbery
+ADD|CR0671|Cybercrime|Karachi Clifton|30/09/2024|7|Unknown|Identity theft
+ADD|CR0672|Assault|Lahore Ferozepur Road|30/09/2024|6|Ahmed Butt|Workplace assault
+ADD|CR0673|Kidnapping|Islamabad H-9|01/10/2024|9|Zain Khan|Child trafficking
+ADD|CR0674|Theft|Rawalpindi Bahria Town|01/10/2024|5|Hassan Ali|Mobile phone stolen
+ADD|CR0675|Burglary|Multan Nawabpur|02/10/2024|7|Bilal Shah|Office burglary
+ADD|CR0676|Murder|Faisalabad Ghulam Muhammad Abad|02/10/2024|10|Usman Hassan|Gang warfare
+ADD|CR0677|Vandalism|Peshawar Tehkal|03/10/2024|4|Hamza Ahmed|Traffic light vandalism
+ADD|CR0678|Fraud|Quetta Samungli Road|03/10/2024|6|Kamran Ali|Investment fraud
+ADD|CR0679|Drug Trafficking|Karachi Landhi|04/10/2024|9|Shahid Khan|Cocaine seized
+ADD|CR0680|Theft|Lahore Shahdara|04/10/2024|5|Unknown|Jewelry theft
+ADD|CR0681|Robbery|Islamabad G-11|05/10/2024|8|Junaid Hassan|Gold shop robbery
+ADD|CR0682|Assault|Rawalpindi Morgah|05/10/2024|6|Tariq Ali|Domestic dispute
+ADD|CR0683|Cybercrime|Multan Mattital|06/10/2024|7|Unknown|Online scam
+ADD|CR0684|Kidnapping|Faisalabad Dijkot Road|06/10/2024|9|Wasim Shah|Ransom case
+ADD|CR0685|Theft|Peshawar Jamrud Road|07/10/2024|5|Hassan Malik|Vehicle parts stolen
+ADD|CR0686|Burglary|Quetta Satellite Town|07/10/2024|7|Ahmed Hassan|Shop burglary
+ADD|CR0687|Murder|Karachi Saddar|08/10/2024|10|Bilal Khan|Sectarian killing
+ADD|CR0688|Fraud|Lahore Garden Town|08/10/2024|6|Salman Ali|Check fraud
+ADD|CR0689|Drug Trafficking|Islamabad F-8|09/10/2024|9|Rizwan Hassan|Drug network busted
+ADD|CR0690|Assault|Rawalpindi Sadiqabad|09/10/2024|6|Adnan Ahmed|Bar fight
+ADD|CR0691|Theft|Multan Old Shujabad Road|10/10/2024|5|Unknown|Cash theft
+ADD|CR0692|Robbery|Faisalabad Susan Road|10/10/2024|8|Fahad Khan|Bank robbery
+ADD|CR0693|Cybercrime|Peshawar University Town|11/10/2024|7|Unknown|Ransomware attack
+ADD|CR0694|Vandalism|Quetta Kasi Road|11/10/2024|4|Imran Hassan|Billboard damage
+ADD|CR0695|Kidnapping|Karachi Shahrah-e-Faisal|12/10/2024|9|Talha Shah|Child abduction
+ADD|CR0696|Theft|Lahore Main Boulevard|12/10/2024|5|Omar Ali|Construction material theft
+ADD|CR0697|Burglary|Islamabad G-7|13/10/2024|7|Ahmed Butt|Warehouse break-in
+ADD|CR0698|Murder|Rawalpindi Dhoke Syedan|13/10/2024|10|Zain Khan|Honor killing
+ADD|CR0699|Assault|Multan Qasim Bela|14/10/2024|6|Hassan Ali|Road rage
+ADD|CR0700|Fraud|Faisalabad Millat Town|14/10/2024|6|Bilal Shah|Ponzi scheme
+ADD|CR0701|Drug Trafficking|Peshawar Kohat Road|15/10/2024|9|Usman Hassan|Heroin seized
+ADD|CR0702|Theft|Quetta Eastern Bypass|15/10/2024|5|Unknown|Bike stolen
+ADD|CR0703|Robbery|Karachi Clifton|16/10/2024|8|Hamza Ahmed|Armed robbery
+ADD|CR0704|Cybercrime|Lahore Ferozepur Road|16/10/2024|7|Unknown|Phishing attack
+ADD|CR0705|Assault|Islamabad H-9|17/10/2024|6|Kamran Ali|Street fight
+ADD|CR0706|Kidnapping|Rawalpindi Bahria Town|17/10/2024|9|Shahid Khan|Businessman kidnapped
+ADD|CR0707|Theft|Multan Nawabpur|18/10/2024|5|Junaid Hassan|Auto parts theft
+ADD|CR0708|Burglary|Faisalabad Ghulam Muhammad Abad|18/10/2024|7|Tariq Ali|Shop burglary
+ADD|CR0709|Murder|Peshawar Tehkal|19/10/2024|10|Wasim Shah|Gang murder
+ADD|CR0710|Vandalism|Quetta Samungli Road|19/10/2024|4|Hassan Malik|Monument defacement
+ADD|CR0711|Fraud|Karachi Landhi|20/10/2024|6|Ahmed Hassan|Real estate fraud
+ADD|CR0712|Drug Trafficking|Lahore Shahdara|20/10/2024|9|Bilal Khan|Cocaine trafficking
+ADD|CR0713|Theft|Islamabad G-11|21/10/2024|5|Unknown|Laptop stolen
+ADD|CR0714|Robbery|Rawalpindi Morgah|21/10/2024|8|Salman Ali|Gold shop robbery
+ADD|CR0715|Assault|Multan Mattital|22/10/2024|6|Rizwan Hassan|Domestic violence
+ADD|CR0716|Cybercrime|Faisalabad Dijkot Road|22/10/2024|7|Unknown|Data breach
+ADD|CR0717|Kidnapping|Peshawar Jamrud Road|23/10/2024|9|Adnan Ahmed|Child kidnapping
+ADD|CR0718|Theft|Quetta Satellite Town|23/10/2024|5|Fahad Khan|Mobile snatching
+ADD|CR0719|Burglary|Karachi Saddar|24/10/2024|7|Imran Hassan|Office burglary
+ADD|CR0720|Murder|Lahore Garden Town|24/10/2024|10|Talha Shah|Contract killing
+ADD|CR0721|Fraud|Islamabad F-8|25/10/2024|6|Omar Ali|Insurance fraud
+ADD|CR0722|Drug Trafficking|Rawalpindi Sadiqabad|25/10/2024|9|Ahmed Butt|Drug smuggling
+ADD|CR0723|Assault|Multan Old Shujabad Road|26/10/2024|6|Zain Khan|Bar fight
+ADD|CR0724|Theft|Faisalabad Susan Road|26/10/2024|5|Unknown|Jewelry theft
+ADD|CR0725|Robbery|Peshawar University Town|27/10/2024|8|Hassan Ali|Bank robbery
+ADD|CR0726|Cybercrime|Quetta Kasi Road|27/10/2024|7|Unknown|Online fraud
+ADD|CR0727|Vandalism|Karachi Shahrah-e-Faisal|28/10/2024|4|Bilal Shah|Park vandalism
+ADD|CR0728|Kidnapping|Lahore Main Boulevard|28/10/2024|9|Usman Hassan|Ransom case
+ADD|CR0729|Theft|Islamabad G-7|29/10/2024|5|Hamza Ahmed|Cash theft
+ADD|CR0730|Burglary|Rawalpindi Dhoke Syedan|29/10/2024|7|Kamran Ali|Shop burglary
+ADD|CR0731|Murder|Multan Qasim Bela|30/10/2024|10|Shahid Khan|Gang warfare
+ADD|CR0732|Assault|Faisalabad Millat Town|30/10/2024|6|Junaid Hassan|Street fight
+ADD|CR0733|Fraud|Peshawar Kohat Road|31/10/2024|6|Tariq Ali|Credit card fraud
+ADD|CR0734|Drug Trafficking|Quetta Eastern Bypass|31/10/2024|9|Wasim Shah|Drug dealer caught
+ADD|CR0735|Theft|Karachi Clifton|01/11/2024|5|Unknown|Vehicle stolen
+ADD|CR0736|Robbery|Lahore Ferozepur Road|01/11/2024|8|Hassan Malik|Armed robbery
+ADD|CR0737|Cybercrime|Islamabad H-9|02/11/2024|7|Unknown|Identity theft
+ADD|CR0738|Assault|Rawalpindi Bahria Town|02/11/2024|6|Ahmed Hassan|Workplace assault
+ADD|CR0739|Kidnapping|Multan Nawabpur|03/11/2024|9|Bilal Khan|Child abduction
+ADD|CR0740|Theft|Faisalabad Ghulam Muhammad Abad|03/11/2024|5|Salman Ali|Construction material theft
+ADD|CR0741|Burglary|Peshawar Tehkal|04/11/2024|7|Rizwan Hassan|Warehouse burglary
+ADD|CR0742|Murder|Quetta Samungli Road|04/11/2024|10|Adnan Ahmed|Sectarian killing
+ADD|CR0743|Vandalism|Karachi Landhi|05/11/2024|4|Fahad Khan|Traffic light vandalism
+ADD|CR0744|Fraud|Lahore Shahdara|05/11/2024|6|Imran Hassan|Investment fraud
+ADD|CR0745|Drug Trafficking|Islamabad G-11|06/11/2024|9|Talha Shah|Heroin trafficking
+ADD|CR0746|Theft|Rawalpindi Morgah|06/11/2024|5|Unknown|Bike stolen
+ADD|CR0747|Robbery|Multan Mattital|07/11/2024|8|Omar Ali|Gold shop robbery
+ADD|CR0748|Assault|Faisalabad Dijkot Road|07/11/2024|6|Ahmed Butt|Domestic dispute
+ADD|CR0749|Cybercrime|Peshawar Jamrud Road|08/11/2024|7|Unknown|Ransomware attack
+ADD|CR0750|Kidnapping|Quetta Satellite Town|08/11/2024|9|Zain Khan|Businessman kidnapped
+ADD|CR0751|Theft|Karachi Saddar|09/11/2024|5|Hassan Ali|Auto parts theft
+ADD|CR0752|Burglary|Lahore Garden Town|09/11/2024|7|Bilal Shah|Shop burglary
+ADD|CR0753|Murder|Islamabad F-8|10/11/2024|10|Usman Hassan|Honor killing
+ADD|CR0754|Fraud|Rawalpindi Sadiqabad|10/11/2024|6|Hamza Ahmed|Check fraud
+ADD|CR0755|Drug Trafficking|Multan Old Shujabad Road|11/11/2024|9|Kamran Ali|Cocaine seized
+ADD|CR0756|Assault|Faisalabad Susan Road|11/11/2024|6|Shahid Khan|Road rage
+ADD|CR0757|Theft|Peshawar University Town|12/11/2024|5|Unknown|Laptop stolen
+ADD|CR0758|Robbery|Quetta Kasi Road|12/11/2024|8|Junaid Hassan|Bank robbery
+ADD|CR0759|Cybercrime|Karachi Shahrah-e-Faisal|13/11/2024|7|Unknown|Phishing attack
+ADD|CR0760|Vandalism|Lahore Main Boulevard|13/11/2024|4|Tariq Ali|Billboard damage
+ADD|CR0761|Kidnapping|Islamabad G-7|14/11/2024|9|Wasim Shah|Child trafficking
+ADD|CR0762|Theft|Rawalpindi Dhoke Syedan|14/11/2024|5|Hassan Malik|Mobile phone stolen
+ADD|CR0763|Burglary|Multan Qasim Bela|15/11/2024|7|Ahmed Hassan|Office burglary
+ADD|CR0764|Murder|Faisalabad Millat Town|15/11/2024|10|Bilal Khan|Gang murder
+ADD|CR0765|Assault|Peshawar Kohat Road|16/11/2024|6|Salman Ali|Bar fight
+ADD|CR0766|Fraud|Quetta Eastern Bypass|16/11/2024|6|Rizwan Hassan|Ponzi scheme
+ADD|CR0767|Drug Trafficking|Karachi Clifton|17/11/2024|9|Adnan Ahmed|Drug network busted
+ADD|CR0768|Theft|Lahore Ferozepur Road|17/11/2024|5|Unknown|Jewelry theft
+ADD|CR0769|Robbery|Islamabad H-9|18/11/2024|8|Fahad Khan|Armed robbery
+ADD|CR0770|Cybercrime|Rawalpindi Bahria Town|18/11/2024|7|Unknown|Data breach
+ADD|CR0771|Assault|Multan Nawabpur|19/11/2024|6|Imran Hassan|Street fight
+ADD|CR0772|Kidnapping|Faisalabad Ghulam Muhammad Abad|19/11/2024|9|Talha Shah|Ransom case
+ADD|CR0773|Theft|Peshawar Tehkal|20/11/2024|5|Omar Ali|Cash theft
+ADD|CR0774|Burglary|Quetta Samungli Road|20/11/2024|7|Ahmed Butt|Shop burglary
+ADD|CR0775|Murder|Karachi Landhi|21/11/2024|10|Zain Khan|Contract killing
+ADD|CR0776|Vandalism|Lahore Shahdara|21/11/2024|4|Hassan Ali|Park vandalism
+ADD|CR0777|Fraud|Islamabad G-11|22/11/2024|6|Bilal Shah|Real estate scam
+ADD|CR0778|Drug Trafficking|Rawalpindi Morgah|22/11/2024|9|Usman Hassan|Cocaine trafficking
+ADD|CR0779|Theft|Multan Mattital|23/11/2024|5|Unknown|Construction material theft
+ADD|CR0780|Robbery|Faisalabad Dijkot Road|23/11/2024|8|Hamza Ahmed|Gold shop robbery
+ADD|CR0781|Assault|Peshawar Jamrud Road|24/11/2024|6|Kamran Ali|Domestic violence
+ADD|CR0782|Cybercrime|Quetta Satellite Town|24/11/2024|7|Unknown|Online scam
+ADD|CR0783|Kidnapping|Karachi Saddar|25/11/2024|9|Shahid Khan|Child abduction
+ADD|CR0784|Theft|Lahore Garden Town|25/11/2024|5|Junaid Hassan|Bike stolen
+ADD|CR0785|Burglary|Islamabad F-8|26/11/2024|7|Tariq Ali|Warehouse break-in
+ADD|CR0786|Murder|Rawalpindi Sadiqabad|26/11/2024|10|Wasim Shah|Gang warfare
+ADD|CR0787|Fraud|Multan Old Shujabad Road|27/11/2024|6|Hassan Malik|Insurance fraud
+ADD|CR0788|Drug Trafficking|Faisalabad Susan Road|27/11/2024|9|Ahmed Hassan|Drug smuggling
+ADD|CR0789|Assault|Peshawar University Town|28/11/2024|6|Bilal Khan|Workplace assault
+ADD|CR0790|Theft|Quetta Kasi Road|28/11/2024|5|Unknown|Auto parts theft
+ADD|CR0791|Robbery|Karachi Shahrah-e-Faisal|29/11/2024|8|Salman Ali|Bank robbery
+ADD|CR0792|Cybercrime|Lahore Main Boulevard|29/11/2024|7|Unknown|Ransomware attack
+ADD|CR0793|Vandalism|Islamabad G-7|30/11/2024|4|Rizwan Hassan|Monument defacement
+ADD|CR0794|Kidnapping|Rawalpindi Dhoke Syedan|30/11/2024|9|Adnan Ahmed|Businessman kidnapped
+ADD|CR0795|Theft|Multan Qasim Bela|01/12/2024|5|Fahad Khan|Laptop stolen
+ADD|CR0796|Burglary|Faisalabad Millat Town|01/12/2024|7|Imran Hassan|Shop burglary
+ADD|CR0797|Murder|Peshawar Kohat Road|02/12/2024|10|Talha Shah|Sectarian killing
+ADD|CR0798|Assault|Quetta Eastern Bypass|02/12/2024|6|Omar Ali|Road rage
+ADD|CR0799|Fraud|Karachi Clifton|03/12/2024|6|Ahmed Butt|Credit card fraud
+ADD|CR0800|Drug Trafficking|Lahore Ferozepur Road|03/12/2024|9|Zain Khan|Heroin seized
+ADD|CR0801|Theft|Islamabad H-9|04/12/2024|5|Unknown|Mobile snatching
+ADD|CR0802|Robbery|Rawalpindi Bahria Town|04/12/2024|8|Hassan Ali|Armed robbery
+ADD|CR0803|Cybercrime|Multan Nawabpur|05/12/2024|7|Unknown|Phishing attack
+ADD|CR0804|Assault|Faisalabad Ghulam Muhammad Abad|05/12/2024|6|Bilal Shah|Bar fight
+ADD|CR0805|Kidnapping|Peshawar Tehkal|06/12/2024|9|Usman Hassan|Child kidnapping
+ADD|CR0806|Theft|Quetta Samungli Road|06/12/2024|5|Hamza Ahmed|Jewelry theft
+ADD|CR0807|Burglary|Karachi Landhi|07/12/2024|7|Kamran Ali|Office burglary
+ADD|CR0808|Murder|Lahore Shahdara|07/12/2024|10|Shahid Khan|Honor killing
+ADD|CR0809|Vandalism|Islamabad G-11|08/12/2024|4|Junaid Hassan|Traffic light vandalism
+ADD|CR0810|Fraud|Rawalpindi Morgah|08/12/2024|6|Tariq Ali|Investment fraud
+ADD|CR0811|Drug Trafficking|Multan Mattital|09/12/2024|9|Wasim Shah|Cocaine seized
+ADD|CR0812|Theft|Faisalabad Dijkot Road|09/12/2024|5|Unknown|Vehicle parts stolen
+ADD|CR0813|Robbery|Peshawar Jamrud Road|10/12/2024|8|Hassan Malik|Gold shop robbery
+ADD|CR0814|Assault|Quetta Satellite Town|10/12/2024|6|Ahmed Hassan|Domestic dispute
+ADD|CR0815|Cybercrime|Karachi Saddar|11/12/2024|7|Unknown|Data breach
+ADD|CR0816|Kidnapping|Lahore Garden Town|11/12/2024|9|Bilal Khan|Ransom case
+ADD|CR0817|Theft|Islamabad F-8|12/12/2024|5|Salman Ali|Cash theft
+ADD|CR0818|Burglary|Rawalpindi Sadiqabad|12/12/2024|7|Rizwan Hassan|Shop burglary
+ADD|CR0819|Murder|Multan Old Shujabad Road|13/12/2024|10|Adnan Ahmed|Gang murder
+ADD|CR0820|Fraud|Faisalabad Susan Road|13/12/2024|6|Fahad Khan|Check fraud
+ADD|CR0821|Drug Trafficking|Peshawar University Town|14/12/2024|9|Imran Hassan|Drug dealer caught
+ADD|CR0822|Assault|Quetta Kasi Road|14/12/2024|6|Talha Shah|Street fight
+ADD|CR0823|Theft|Karachi Shahrah-e-Faisal|15/12/2024|5|Unknown|Construction material theft
+ADD|CR0824|Robbery|Lahore Main Boulevard|15/12/2024|8|Omar Ali|Bank robbery
+ADD|CR0825|Cybercrime|Islamabad G-7|16/12/2024|7|Unknown|Identity theft
+ADD|CR0826|Vandalism|Rawalpindi Dhoke Syedan|16/12/2024|4|Ahmed Butt|Billboard damage
+ADD|CR0827|Kidnapping|Multan Qasim Bela|17/12/2024|9|Zain Khan|Child abduction
+ADD|CR0828|Theft|Faisalabad Millat Town|17/12/2024|5|Hassan Ali|Bike stolen
+ADD|CR0829|Burglary|Peshawar Kohat Road|18/12/2024|7|Bilal Shah|Warehouse burglary
+ADD|CR0830|Murder|Quetta Eastern Bypass|18/12/2024|10|Usman Hassan|Contract killing
+ADD|CR0831|Assault|Karachi Clifton|19/12/2024|6|Hamza Ahmed|Workplace assault
+ADD|CR0832|Fraud|Lahore Ferozepur Road|19/12/2024|6|Kamran Ali|Ponzi scheme
+ADD|CR0833|Drug Trafficking|Islamabad H-9|20/12/2024|9|Shahid Khan|Drug network busted
+ADD|CR0834|Theft|Rawalpindi Bahria Town|20/12/2024|5|Unknown|Laptop stolen
+ADD|CR0835|Robbery|Multan Nawabpur|21/12/2024|8|Junaid Hassan|Armed robbery
+ADD|CR0836|Cybercrime|Faisalabad Ghulam Muhammad Abad|21/12/2024|7|Unknown|Online fraud
+ADD|CR0837|Assault|Peshawar Tehkal|22/12/2024|6|Tariq Ali|Road rage
+ADD|CR0838|Kidnapping|Quetta Samungli Road|22/12/2024|9|Wasim Shah|Businessman kidnapped
+ADD|CR0839|Theft|Karachi Landhi|23/12/2024|5|Hassan Malik|Auto parts theft
+ADD|CR0840|Burglary|Lahore Shahdara|23/12/2024|7|Ahmed Hassan|Shop burglary
+ADD|CR0841|Murder|Islamabad G-11|24/12/2024|10|Bilal Khan|Gang warfare
+ADD|CR0842|Vandalism|Rawalpindi Morgah|24/12/2024|4|Salman Ali|Park vandalism
+ADD|CR0843|Fraud|Multan Mattital|25/12/2024|6|Rizwan Hassan|Real estate fraud
+ADD|CR0844|Drug Trafficking|Faisalabad Dijkot Road|25/12/2024|9|Adnan Ahmed|Cocaine trafficking
+ADD|CR0845|Theft|Peshawar Jamrud Road|26/12/2024|5|Unknown|Mobile phone stolen
+ADD|CR0846|Robbery|Quetta Satellite Town|26/12/2024|8|Fahad Khan|Gold shop robbery
+ADD|CR0847|Assault|Karachi Saddar|27/12/2024|6|Imran Hassan|Domestic violence
+ADD|CR0848|Cybercrime|Lahore Garden Town|27/12/2024|7|Unknown|Ransomware attack
+ADD|CR0849|Kidnapping|Islamabad F-8|28/12/2024|9|Talha Shah|Child kidnapping
+ADD|CR0850|Theft|Rawalpindi Sadiqabad|28/12/2024|5|Omar Ali|Jewelry theft
+ADD|CR0851|Burglary|Multan Old Shujabad Road|29/12/2024|7|Ahmed Butt|Office burglary
+ADD|CR0852|Murder|Faisalabad Susan Road|29/12/2024|10|Zain Khan|Sectarian killing
+ADD|CR0853|Fraud|Peshawar University Town|30/12/2024|6|Hassan Ali|Insurance fraud
+ADD|CR0854|Drug Trafficking|Quetta Kasi Road|30/12/2024|9|Bilal Shah|Heroin seized
+ADD|CR0855|Assault|Karachi Shahrah-e-Faisal|31/12/2024|6|Usman Hassan|Bar fight
+ADD|CR0856|Theft|Lahore Main Boulevard|31/12/2024|5|Unknown|Cash theft
+ADD|CR0857|Robbery|Islamabad G-7|01/01/2025|8|Hamza Ahmed|Bank robbery
+ADD|CR0858|Cybercrime|Rawalpindi Dhoke Syedan|01/01/2025|7|Unknown|Phishing attack
+ADD|CR0859|Vandalism|Multan Qasim Bela|02/01/2025|4|Kamran Ali|Monument damage
+ADD|CR0860|Kidnapping|Faisalabad Millat Town|02/01/2025|9|Shahid Khan|Ransom case
+ADD|CR0861|Theft|Peshawar Kohat Road|03/01/2025|5|Junaid Hassan|Vehicle stolen
+ADD|CR0862|Burglary|Quetta Eastern Bypass|03/01/2025|7|Tariq Ali|Shop burglary
+ADD|CR0863|Murder|Karachi Clifton|04/01/2025|10|Wasim Shah|Honor killing
+ADD|CR0864|Assault|Lahore Ferozepur Road|04/01/2025|6|Hassan Malik|Street fight
+ADD|CR0865|Fraud|Islamabad H-9|05/01/2025|6|Ahmed Hassan|Credit card fraud
+ADD|CR0866|Drug Trafficking|Rawalpindi Bahria Town|05/01/2025|9|Bilal Khan|Drug smuggling
+ADD|CR0867|Theft|Multan Nawabpur|06/01/2025|5|Unknown|Construction material theft
+ADD|CR0868|Robbery|Faisalabad Ghulam Muhammad Abad|06/01/2025|8|Salman Ali|Armed robbery
+ADD|CR0869|Cybercrime|Peshawar Tehkal|07/01/2025|7|Unknown|Data breach
+ADD|CR0870|Assault|Quetta Samungli Road|07/01/2025|6|Rizwan Hassan|Domestic dispute
+ADD|CR0871|Kidnapping|Karachi Landhi|08/01/2025|9|Adnan Ahmed|Child abduction
+ADD|CR0872|Theft|Lahore Shahdara|08/01/2025|5|Fahad Khan|Bike stolen
+ADD|CR0873|Burglary|Islamabad G-11|09/01/2025|7|Imran Hassan|Warehouse break-in
+ADD|CR0874|Murder|Rawalpindi Morgah|09/01/2025|10|Talha Shah|Gang murder
+ADD|CR0875|Vandalism|Multan Mattital|10/01/2025|4|Omar Ali|Traffic light vandalism
+ADD|CR0876|Fraud|Faisalabad Dijkot Road|10/01/2025|6|Ahmed Butt|Investment fraud
+ADD|CR0877|Drug Trafficking|Peshawar Jamrud Road|11/01/2025|9|Zain Khan|Cocaine seized
+ADD|CR0878|Theft|Quetta Satellite Town|11/01/2025|5|Unknown|Laptop stolen
+ADD|CR0879|Robbery|Karachi Saddar|12/01/2025|8|Hassan Ali|Gold shop robbery
+ADD|CR0880|Assault|Lahore Garden Town|12/01/2025|6|Bilal Shah|Road rage
+ADD|CR0881|Cybercrime|Islamabad F-8|13/01/2025|7|Unknown|Identity theft
+ADD|CR0882|Kidnapping|Rawalpindi Sadiqabad|13/01/2025|9|Usman Hassan|Businessman kidnapped
+ADD|CR0883|Theft|Multan Old Shujabad Road|14/01/2025|5|Hamza Ahmed|Auto parts theft
+ADD|CR0884|Burglary|Faisalabad Susan Road|14/01/2025|7|Kamran Ali|Shop burglary
+ADD|CR0885|Murder|Peshawar University Town|15/01/2025|10|Shahid Khan|Contract killing
+ADD|CR0886|Fraud|Quetta Kasi Road|15/01/2025|6|Junaid Hassan|Check fraud
+ADD|CR0887|Drug Trafficking|Karachi Shahrah-e-Faisal|16/01/2025|9|Tariq Ali|Drug dealer caught
+ADD|CR0888|Assault|Lahore Main Boulevard|16/01/2025|6|Wasim Shah|Bar fight
+ADD|CR0889|Theft|Islamabad G-7|17/01/2025|5|Unknown|Mobile snatching
+ADD|CR0890|Robbery|Rawalpindi Dhoke Syedan|17/01/2025|8|Hassan Malik|Bank robbery
+ADD|CR0891|Cybercrime|Multan Qasim Bela|18/01/2025|7|Unknown|Online scam
+ADD|CR0892|Vandalism|Faisalabad Millat Town|18/01/2025|4|Ahmed Hassan|Billboard damage
+ADD|CR0893|Kidnapping|Peshawar Kohat Road|19/01/2025|9|Bilal Khan|Child trafficking
+ADD|CR0894|Theft|Quetta Eastern Bypass|19/01/2025|5|Salman Ali|Jewelry theft
+ADD|CR0895|Burglary|Karachi Clifton|20/01/2025|7|Rizwan Hassan|Office burglary
+ADD|CR0896|Murder|Lahore Ferozepur Road|20/01/2025|10|Adnan Ahmed|Gang warfare
+ADD|CR0897|Assault|Islamabad H-9|21/01/2025|6|Fahad Khan|Street fight
+ADD|CR0898|Fraud|Rawalpindi Bahria Town|21/01/2025|6|Imran Hassan|Ponzi scheme
+ADD|CR0899|Drug Trafficking|Multan Nawabpur|22/01/2025|9|Talha Shah|Heroin trafficking
+ADD|CR0900|Theft|Faisalabad Ghulam Muhammad Abad|22/01/2025|5|Unknown|Cash theft

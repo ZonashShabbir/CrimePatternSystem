@@ -1,0 +1,117 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║              CRIME DATA ANALYSIS REPORT                                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📊 OVERALL STATISTICS
+════════════════════════════════════════════════════════════════════════════════
+  Total Crimes Recorded: 101
+  Cities Affected: 9
+  Crime Categories: 11
+
+🔝 TOP 5 HIGH-CRIME CITIES
+════════════════════════════════════════════════════════════════════════════════
+  1. Karachi        :  14 crimes (13.9%) [██████                                            ]
+  2. Lahore         :  13 crimes (12.9%) [██████                                            ]
+  3. Islamabad      :  13 crimes (12.9%) [██████                                            ]
+  4. Rawalpindi     :  12 crimes (11.9%) [█████                                             ]
+  5. Multan         :  12 crimes (11.9%) [█████                                             ]
+
+🔍 TOP 5 CRIME TYPES
+════════════════════════════════════════════════════════════════════════════════
+  1. Theft               :  19 cases (18.8%) [█████████                                         ]
+  2. Robbery             :  10 cases (9.9%) [████                                              ]
+  3. Assault             :  10 cases (9.9%) [████                                              ]
+  4. Burglary            :  10 cases (9.9%) [████                                              ]
+  5. Fraud               :   9 cases (8.9%) [████                                              ]
+
+📍 CITY-WISE DETAILED BREAKDOWN
+════════════════════════════════════════════════════════════════════════════════
+
+  🏙️ Karachi (14 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • Theft               :  5
+     • Cybercrime          :  2
+     • Robbery             :  2
+     • Vandalism           :  2
+     • Burglary            :  1
+     • Assault             :  1
+     • Murder              :  1
+
+  🏙️ Lahore (13 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • Robbery             :  3
+     • Drug Trafficking    :  3
+     • Kidnapping          :  2
+     • Vandalism           :  2
+     • Burglary            :  1
+     • Fraud               :  1
+     • Murder              :  1
+
+  🏙️ Islamabad (13 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • Cybercrime          :  3
+     • Theft               :  3
+     • Kidnapping          :  2
+     • Assault             :  2
+     • Murder              :  2
+     • Fraud               :  1
+
+  🏙️ Rawalpindi (12 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • Theft               :  3
+     • Robbery             :  2
+     • Assault             :  2
+     • Burglary            :  2
+     • Vandalism           :  2
+     • Drug Trafficking    :  1
+
+  🏙️ Multan (12 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • Kidnapping          :  2
+     • Burglary            :  2
+     • Fraud               :  2
+     • Murder              :  2
+     • Cybercrime          :  1
+     • Drug Trafficking    :  1
+     • Robbery             :  1
+     • Assault             :  1
+
+  🏙️ Faisalabad (12 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • Theft               :  4
+     • Assault             :  2
+     • Fraud               :  2
+     • Cybercrime          :  1
+     • Burglary            :  1
+     • Murder              :  1
+     • Vandalism           :  1
+
+  🏙️ Peshawar (12 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • Drug Trafficking    :  2
+     • Robbery             :  2
+     • Burglary            :  2
+     • Theft               :  2
+     • Kidnapping          :  1
+     • Assault             :  1
+     • Fraud               :  1
+     • Vandalism           :  1
+
+  🏙️ Quetta (12 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • Cybercrime          :  2
+     • Drug Trafficking    :  2
+     • Fraud               :  2
+     • Theft               :  2
+     • Kidnapping          :  1
+     • Assault             :  1
+     • Burglary            :  1
+     • Murder              :  1
+
+  🏙️ kashmir (1 total crimes)
+  ────────────────────────────────────────────────────────────────────────
+     • fraud               :  1
+
+════════════════════════════════════════════════════════════════════════════════
+✅ Analysis Complete | Generated: Sun Dec 21 16:26:50 PKT 2025
+════════════════════════════════════════════════════════════════════════════════

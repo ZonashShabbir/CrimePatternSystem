@@ -1,0 +1,10 @@
+﻿  CriminalIntelligence.cpp
+C:\Users\DELL\Desktop\CrimePatternSystem\cpp\CriminalIntelligence\CriminalIntelligence\CriminalIntelligence.cpp(77,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\CrimePatternSystem\cpp\CriminalIntelligence\CriminalIntelligence\CriminalIntelligence.cpp(61,33): warning C4101: 'e': unreferenced local variable
+  Graph.cpp
+C:\Users\DELL\Desktop\CrimePatternSystem\cpp\CriminalIntelligence\CriminalIntelligence\Graph.cpp(214,17): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\DELL\Desktop\CrimePatternSystem\cpp\CriminalIntelligence\CriminalIntelligence\Graph.cpp(215,17): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\DELL\Desktop\CrimePatternSystem\cpp\CriminalIntelligence\CriminalIntelligence\Graph.cpp(220,17): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+C:\Users\DELL\Desktop\CrimePatternSystem\cpp\CriminalIntelligence\CriminalIntelligence\Graph.cpp(221,17): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+  Generating Code...
+  CriminalIntelligence.vcxproj -> C:\Users\DELL\Desktop\CrimePatternSystem\cpp\CriminalIntelligence\x64\Debug\CriminalIntelligence.exe

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystemgui/CrimeSystemGUI.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/models/CrimeRecord.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/integration/CppIntegration.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/CrimeRecordPanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/NetworkFinderPanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/RouteOptimizerPanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/MainFrame.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/integration/CrimeDataLoader.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/GraphVisualizationPanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/utils/NetworkDataParser.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/CrimeStatisticsPanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/models/CriminalNetwork.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/integration/CppIntelligenceIntegration.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/FloydWarshallResultsPanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/IntelligencePanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/gui/FileChecker.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/integration/SampleFloydGenerator.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/integration/CppIntegrationChecker.java</file>
+            <file>file:/C:/Users/DELL/Desktop/CrimePatternSystem/CrimeSystemGUI/src/crimesystem/integration/JavaNetworkAnalysis.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,183 @@
+# Patrol Locations and Routes - Based on Crime Data Analysis
+# Format: LOCATION|ID|Name|Type|CrimeCount
+# Format: ROUTE|Location1|Location2|Distance(km)
+
+# ==================== KARACHI LOCATIONS ====================
+LOCATION|K001|Karachi Saddar Police Station|POLICE_STATION|52
+LOCATION|K002|Karachi Defence Checkpoint|CHECKPOINT|35
+LOCATION|K003|Karachi Clifton Hotspot|CRIME_HOTSPOT|68
+LOCATION|K004|Karachi Lyari Gang Area|CRIME_HOTSPOT|85
+LOCATION|K005|Karachi North Patrol Point|PATROL_POINT|28
+LOCATION|K006|Karachi Nazimabad Station|POLICE_STATION|42
+LOCATION|K007|Karachi Malir Checkpoint|CHECKPOINT|31
+LOCATION|K008|Karachi Gulshan Station|POLICE_STATION|38
+LOCATION|K009|Karachi Korangi Industrial|CRIME_HOTSPOT|55
+LOCATION|K010|Karachi Landhi Area|PATROL_POINT|44
+LOCATION|K011|Karachi Shahrah-e-Faisal|CHECKPOINT|29
+
+# ==================== LAHORE LOCATIONS ====================
+LOCATION|L001|Lahore Gulberg Police Station|POLICE_STATION|48
+LOCATION|L002|Lahore Model Town Checkpoint|CHECKPOINT|25
+LOCATION|L003|Lahore Cantt Station|POLICE_STATION|41
+LOCATION|L004|Lahore Badami Bagh Hotspot|CRIME_HOTSPOT|62
+LOCATION|L005|Lahore Johar Town Patrol|PATROL_POINT|33
+LOCATION|L006|Lahore Shalimar Area|CRIME_HOTSPOT|58
+LOCATION|L007|Lahore DHA Checkpoint|CHECKPOINT|22
+LOCATION|L008|Lahore Ichhra Market|PATROL_POINT|47
+LOCATION|L009|Lahore Shahdara Station|POLICE_STATION|51
+LOCATION|L010|Lahore Garden Town|PATROL_POINT|28
+
+# ==================== ISLAMABAD LOCATIONS ====================
+LOCATION|I001|Islamabad F-6 Police Station|POLICE_STATION|35
+LOCATION|I002|Islamabad I-8 Checkpoint|CHECKPOINT|28
+LOCATION|I003|Islamabad Blue Area Hotspot|CRIME_HOTSPOT|45
+LOCATION|I004|Islamabad G-9 Patrol Point|PATROL_POINT|22
+LOCATION|I005|Islamabad F-10 Station|POLICE_STATION|31
+LOCATION|I006|Islamabad F-7 Checkpoint|CHECKPOINT|24
+LOCATION|I007|Islamabad G-10 Area|PATROL_POINT|26
+LOCATION|I008|Islamabad I-10 Station|POLICE_STATION|29
+LOCATION|I009|Islamabad F-11 Sector|PATROL_POINT|18
+LOCATION|I010|Islamabad G-7 Hotspot|CRIME_HOTSPOT|52
+
+# ==================== RAWALPINDI LOCATIONS ====================
+LOCATION|R001|Rawalpindi Saddar Police Station|POLICE_STATION|58
+LOCATION|R002|Rawalpindi Westridge Checkpoint|CHECKPOINT|32
+LOCATION|R003|Rawalpindi Satellite Town|PATROL_POINT|39
+LOCATION|R004|Rawalpindi Committee Chowk|CRIME_HOTSPOT|64
+LOCATION|R005|Rawalpindi Pirwadhai Station|POLICE_STATION|47
+LOCATION|R006|Rawalpindi Chaklala Checkpoint|CHECKPOINT|28
+LOCATION|R007|Rawalpindi Raja Bazaar Hotspot|CRIME_HOTSPOT|71
+LOCATION|R008|Rawalpindi Bahria Town|PATROL_POINT|21
+
+# ==================== MULTAN LOCATIONS ====================
+LOCATION|M001|Multan Cantt Police Station|POLICE_STATION|44
+LOCATION|M002|Multan City Center|CHECKPOINT|38
+LOCATION|M003|Multan Gulgasht Area|CRIME_HOTSPOT|56
+LOCATION|M004|Multan Shah Rukn-e-Alam|PATROL_POINT|25
+LOCATION|M005|Multan Vehari Chowk|CHECKPOINT|33
+LOCATION|M006|Multan Bosan Road Station|POLICE_STATION|41
+
+# ==================== FAISALABAD LOCATIONS ====================
+LOCATION|F001|Faisalabad Clock Tower Station|POLICE_STATION|49
+LOCATION|F002|Faisalabad Samanabad Checkpoint|CHECKPOINT|36
+LOCATION|F003|Faisalabad Jhang Road|PATROL_POINT|42
+LOCATION|F004|Faisalabad Canal Road Hotspot|CRIME_HOTSPOT|53
+LOCATION|F005|Faisalabad Peoples Colony|PATROL_POINT|31
+LOCATION|F006|Faisalabad Susan Road Station|POLICE_STATION|38
+
+# ==================== PESHAWAR LOCATIONS ====================
+LOCATION|P001|Peshawar Saddar Police Station|POLICE_STATION|51
+LOCATION|P002|Peshawar University Road|CHECKPOINT|27
+LOCATION|P003|Peshawar Hayatabad|PATROL_POINT|23
+LOCATION|P004|Peshawar Ring Road Checkpoint|CHECKPOINT|34
+LOCATION|P005|Peshawar GT Road Hotspot|CRIME_HOTSPOT|67
+LOCATION|P006|Peshawar Jamrud Road Station|POLICE_STATION|45
+
+# ==================== QUETTA LOCATIONS ====================
+LOCATION|Q001|Quetta Cantonment Station|POLICE_STATION|42
+LOCATION|Q002|Quetta Jinnah Road Checkpoint|CHECKPOINT|31
+LOCATION|Q003|Quetta Sariab Road|PATROL_POINT|28
+LOCATION|Q004|Quetta Airport Road|CHECKPOINT|25
+LOCATION|Q005|Quetta Satellite Town Station|POLICE_STATION|36
+
+# ==================== HYDERABAD & KASHMIR ====================
+LOCATION|H001|Hyderabad City Police Station|POLICE_STATION|39
+LOCATION|H002|Hyderabad Market Area|PATROL_POINT|32
+LOCATION|KM001|Kashmir Valley Checkpoint|CHECKPOINT|27
+LOCATION|KM002|Kashmir Central Station|POLICE_STATION|31
+
+
+# ==================== KARACHI ROUTES ====================
+ROUTE|K001|K002|8.5
+ROUTE|K002|K003|6.2
+ROUTE|K003|K004|12.3
+ROUTE|K004|K005|9.8
+ROUTE|K005|K006|7.4
+ROUTE|K006|K007|11.2
+ROUTE|K007|K008|8.9
+ROUTE|K008|K009|10.5
+ROUTE|K009|K010|6.7
+ROUTE|K010|K011|9.3
+ROUTE|K001|K006|14.5
+ROUTE|K003|K008|7.8
+
+# ==================== LAHORE ROUTES ====================
+ROUTE|L001|L002|5.4
+ROUTE|L002|L003|6.8
+ROUTE|L003|L004|8.2
+ROUTE|L004|L005|7.5
+ROUTE|L005|L006|6.9
+ROUTE|L006|L007|9.1
+ROUTE|L007|L008|5.6
+ROUTE|L008|L009|7.3
+ROUTE|L009|L010|6.4
+ROUTE|L001|L007|11.2
+
+# ==================== ISLAMABAD ROUTES ====================
+ROUTE|I001|I002|4.3
+ROUTE|I002|I003|3.8
+ROUTE|I003|I004|3.2
+ROUTE|I004|I005|4.1
+ROUTE|I005|I006|3.5
+ROUTE|I006|I007|2.9
+ROUTE|I007|I008|4.6
+ROUTE|I008|I009|3.7
+ROUTE|I009|I010|3.4
+ROUTE|I001|I010|8.9
+
+# ==================== RAWALPINDI ROUTES ====================
+ROUTE|R001|R002|6.2
+ROUTE|R002|R003|7.5
+ROUTE|R003|R004|5.8
+ROUTE|R004|R005|8.3
+ROUTE|R005|R006|6.7
+ROUTE|R006|R007|7.1
+ROUTE|R007|R008|9.4
+ROUTE|R001|R008|15.3
+
+# ==================== ISLAMABAD-RAWALPINDI CONNECTION ====================
+ROUTE|I001|R001|18.5
+ROUTE|I005|R003|12.7
+ROUTE|I008|R008|14.2
+
+# ==================== MULTAN ROUTES ====================
+ROUTE|M001|M002|5.9
+ROUTE|M002|M003|6.4
+ROUTE|M003|M004|7.2
+ROUTE|M004|M005|5.7
+ROUTE|M005|M006|6.8
+ROUTE|M001|M006|11.5
+
+# ==================== FAISALABAD ROUTES ====================
+ROUTE|F001|F002|6.3
+ROUTE|F002|F003|7.8
+ROUTE|F003|F004|5.4
+ROUTE|F004|F005|6.9
+ROUTE|F005|F006|7.2
+ROUTE|F001|F006|13.4
+
+# ==================== PESHAWAR ROUTES ====================
+ROUTE|P001|P002|5.8
+ROUTE|P002|P003|6.5
+ROUTE|P003|P004|7.9
+ROUTE|P004|P005|8.4
+ROUTE|P005|P006|6.7
+ROUTE|P001|P006|14.8
+
+# ==================== QUETTA ROUTES ====================
+ROUTE|Q001|Q002|5.6
+ROUTE|Q002|Q003|6.2
+ROUTE|Q003|Q004|7.1
+ROUTE|Q004|Q005|5.9
+ROUTE|Q001|Q005|12.3
+
+# ==================== HYDERABAD ROUTES ====================
+ROUTE|H001|H002|4.5
+
+# ==================== KASHMIR ROUTES ====================
+ROUTE|KM001|KM002|6.8
+
+# ==================== INTER-CITY CONNECTIONS (MAJOR HIGHWAYS) ====================
+ROUTE|K001|H001|165
+ROUTE|L001|F001|125
+ROUTE|I001|L001|280

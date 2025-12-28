@@ -1,0 +1,2 @@
+ERROR: Cannot open criminal_network.txt
+Make sure the file is in the same folder as the .exe
