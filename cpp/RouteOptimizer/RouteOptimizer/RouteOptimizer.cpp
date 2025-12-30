@@ -13,7 +13,6 @@ using namespace std;
 DijkstraGraph locationGraph;
 RouteManager routeManager;
 
-// Function prototypes
 void processCommands();
 void writeOutput(const string& message);
 string trim(const string& str);
