@@ -1,7 +1,6 @@
 // hash_table.cpp
 #include "hash_table.h"
 
-// Constructor
 HashTable::HashTable() : totalRecords(0) {
     table.resize(TABLE_SIZE);
 }
